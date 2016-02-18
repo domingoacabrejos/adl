@@ -1114,13 +1114,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2008"
     }, {
-        "file": ["MarketAustralia-7ADL2009-Part1.mp3", "MarketAustralia-7ADL2009-Part2.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Power of Identity - Harnessing Emotions/Programming Yourself with JR Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2009"
-    }, {
         "file": ["MarketAustralia-7ADL2007-Part1.mp3", "MarketAustralia-7ADL2007-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "The Market America Vision: The Engine and Schematic Diagram with JR Ridinger ",
@@ -1170,13 +1163,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2085"
     }, {
-        "file": ["MarketAustralia-7ADL2001-Part1.mp3", "MarketAustralia-7ADL2001-Part2.mp3"],
-        "category": "General",
-        "short_desc": "Building a Solid Foundation - Let's Get Started with Andrew Weissman ",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2001"
-    }, {
         "file": ["MarketAustralia-7ADL2006-Part1.mp3"],
         "category": "General",
         "short_desc": "Leading by Example with Elizabeth Weber",
@@ -1190,13 +1176,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2071"
-    }, {
-        "file": ["MarketAustralia-7ADL2011-Part1.mp3"],
-        "category": "Goals",
-        "short_desc": "Destination Success - Implementing Your Plan of Action with Dennis Franks",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2011"
     }, {
         "file": ["MarketAustralia-7ADL2010-Part1.mp3"],
         "category": "Goals",
@@ -1246,13 +1225,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2077"
-    }, {
-        "file": ["MarketAustralia-7ADL2005-Part1.mp3", "MarketAustralia-7ADL2005-Part2.mp3", "MarketAustralia-7ADL2005-Part3.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Defining Market America - What Is, Is. What isn't, Isn't with JR Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2005"
     }, {
         "file": ["MarketAustralia-7ADL2004-Part1.mp3"],
         "category": "President and CEO JR Ridinger",
@@ -4852,13 +4824,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2101"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2001-Part1.mp3", "MarketUnitedKingdom-UKADL2001-Part2.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Building a Solid Foundation - Andrew Weissman",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2001"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2010-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "Frank and Gingie Keefer Story",
@@ -4872,13 +4837,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2004"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2006-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Leading by Example with Elizabeth Weber",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2006"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2017-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -4900,13 +4858,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2005"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2012-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The No-Nonsense Approach to Success with Frank Keefer",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2012"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2140-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -5223,40 +5174,12 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2023"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2029-Part1.mp3", "MarketUnitedKingdom-UKADL2029-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Get in the Wheelbarrow with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2029"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2039-Part1.mp3"],
         "category": "President and CEO",
         "short_desc": "Hitting New Pin Levels - JR Ridinger",
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2039"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2030-Part1.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Keep Growing with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2030"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2032-Part1.mp3", "MarketUnitedKingdom-UKADL2032-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Making Your Magic Moment with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2032"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2031-Part1.mp3", "MarketUnitedKingdom-UKADL2031-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Making your Dreams Come True with Market America - JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2031"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2018-Part1.mp3", "MarketUnitedKingdom-UKADL2018-Part2.mp3"],
         "category": "President and CEO",
@@ -5272,13 +5195,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2062"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2033-Part1.mp3", "MarketUnitedKingdom-UKADL2033-Part2.mp3", "MarketUnitedKingdom-UKADL2033-Part3.mp3", "MarketUnitedKingdom-UKADL2033-Part4.mp3", "MarketUnitedKingdom-UKADL2033-Part5.mp3", "MarketUnitedKingdom-UKADL2033-Part6.mp3", "MarketUnitedKingdom-UKADL2033-Part7.mp3", "MarketUnitedKingdom-UKADL2033-Part8.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Market America Basic 5 with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2033"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2011-Part1.mp3", "MarketUnitedKingdom-UKADL2011-Part2.mp3"],
         "category": "President and CEO",
         "short_desc": "Market America Vision with JR Ridinger",
@@ -5292,13 +5208,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2034"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2008-Part1.mp3", "MarketUnitedKingdom-UKADL2008-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Power of Identity - Harnessing Emotions/Programming Yourself with JR Ridinger (part 1 & 2)",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2008"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2081-Part1.mp3", "MarketUnitedKingdom-UKADL2081-Part2.mp3"],
         "category": "President and CEO",
