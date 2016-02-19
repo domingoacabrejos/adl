@@ -85,13 +85,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2115"
     }, {
-        "file": ["MarketAustralia-7ADL2116-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Mobile Technologies with Steve Ashley and Kevin Curley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2116"
-    }, {
         "file": ["MarketAustralia-7ADL2117-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Motives by Loren & Motives by La La with Loren Ridinger & La La Anthony",
@@ -113,40 +106,12 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2119"
     }, {
-        "file": ["MarketAustralia-7ADL2120-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Recruiting Techniques with Dennis Franks and Field Leaders",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2120"
-    }, {
-        "file": ["MarketAustralia-7ADL2121-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Retailing Techniques with Kevin Buckman and Field Leaders",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2121"
-    }, {
-        "file": ["MarketAustralia-7ADL2122-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Revised UFO Program and Diagnostic Testing with Dennis Franks",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2122"
-    }, {
         "file": ["MarketAustralia-7ADL2123-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Social Media Tips, Strategies and Techniques with Loren Ridinger & Steve Ashley",
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2123"
-    }, {
-        "file": ["MarketAustralia-7ADL2125-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "The New SHOP.COM with Marc Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2125"
     }, {
         "file": ["MarketAustralia-7ADL2130-Part1.mp3"],
         "category": "2013 International Convention",
@@ -903,13 +868,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2187"
-    }, {
-        "file": ["MarketAustralia-7ADL2184-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Mobile Technologies with Steve Ashley and Kevin Curley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2184"
     }, {
         "file": ["MarketAustralia-7ADL2180-Part1.mp3"],
         "category": "2015 World Conference",
@@ -2311,13 +2269,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2332"
     }, {
-        "file": ["MarketAmerica-CADL2326-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Mobile Technologies with Steve Ashley and Kevin Curley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2326"
-    }, {
         "file": ["MarketAmerica-CADL2323-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Motives Runway Show with Kim Yow and Maria Checa",
@@ -2339,27 +2290,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2329"
     }, {
-        "file": ["MarketAmerica-CADL2317-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Recruiting Techniques with Dennis Franks and Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2317"
-    }, {
-        "file": ["MarketAmerica-CADL2324-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Retailing Techniques with Kevin Buckman and Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2324"
-    }, {
-        "file": ["MarketAmerica-CADL2330-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Revised UFO Program and Diagnostic Testing with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2330"
-    }, {
         "file": ["MarketAmerica-CADL2337-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Social Media Tips, Strategies and Techniques with Loren Ridinger and Steve Ashley",
@@ -2380,13 +2310,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2334"
-    }, {
-        "file": ["MarketAmerica-CADL2336-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "The New SHOP.COM with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2336"
     }, {
         "file": ["MarketAmerica-CADL2331-Part1.mp3"],
         "category": "2013 International Convention",
@@ -4264,75 +4187,12 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2124"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2126-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Millionaires & Millionaires in the Making Panel Discussion with Jim Winkler",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2126"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2127-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Mobile Technologies with Steve Ashley and Kevin Curley",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2127"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2128-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Motives by Loren & Motives by La La with Loren Ridinger & La La Anthony",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2128"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2130-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Pycnogenol with Dr. Steven Lamm",
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2130"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2131-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Recruiting Techniques with Dennis Franks and Field Leaders",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2131"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2132-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Retailing Techniques with Kevin Buckman and Field Leaders",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2132"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2133-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Revised UFO Program and Diagnostic Testing with Dennis Franks",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2133"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2134-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Social Media Tips, Strategies and Techniques with Loren Ridinger & Steve Ashley",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2134"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2135-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "The New SHOP.COM with Marc Ashley",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2135"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2138-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "The Shopping Annuity Convert Spending into Earning with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2138"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2136-Part1.mp3"],
         "category": "2013 International Convention",
