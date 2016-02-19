@@ -1,4 +1,5 @@
 
+2/18
 MarketAmerica-CADL2000-Part1 === 
 - MarketAustralia-7ADL2003-Part2
 
@@ -107,3 +108,45 @@ MarketAmerica-ADL15-Part2 === (**!! NOT-IN-JSON !!**
 - MarketAustralia-7ADL2007-Part2
 - MarketUnitedKingdom-UKADL2011-Part2
 
+2/19 (DELETED)
+MarketAmerica-ADL2186-Part1 ===
+- MarketAmerica-MXADL2018-Part1
+- MarketAmerica-CADL2186-Part1
+- MarketAustralia-7ADL2065-Part1
+
+MarketAmerica-ADL2093-Part1.mp3 === (pts 1 - 5)
+- MarketAmerica-CADL2093-Part1.mp3
+
+MarketAmerica-ADL2190-Part1 === (pts 1 & 2)
+- MarketAmerica-MXADL2001-Part1
+- MarketAmerica-CADL2190-Part1
+
+MarketAmerica-ADL2169-Part1 ===
+- MarketAmerica-CADL2169-Part1
+- MarketAustralia-7ADL2063-Part1
+
+MarketAustralia-7ADL2107-Part1 ===
+- MarketUnitedKingdom-UKADL2121-Part1
+
+MarketAmerica-ADL2335-Part1 ===
+- MarketUnitedKingdom-UKADL2122-Part1
+- MarketAmerica-CADL2335-Part1
+- MarketAustralia-7ADL2108-Part1
+
+MarketAmerica-ADL2321-Part1 ===
+- MarketAmerica-CADL2321-Part1
+- MarketAustralia-7ADL2109-Part1
+- MarketUnitedKingdom-UKADL2123-Part1
+
+MarketAustralia-7ADL2113-Part1 ===
+- MarketUnitedKingdom-UKADL2125-Part1
+
+MarketAmerica-ADL2342-Part1 ===
+- MarketAustralia-7ADL2131-Part1
+- MarketUnitedKingdom-UKADL2139-Part1
+
+MarketAustralia-7ADL2129-Part1 ===
+- MarketUnitedKingdom-UKADL2137-Part1
+
+MarketAmerica-ADL2341-Part1 ===
+- MarketAmerica-CADL2341-Part1
