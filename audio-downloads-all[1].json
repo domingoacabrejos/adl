@@ -344,61 +344,12 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2153"
     }, {
-        "file": ["MarketAustralia-7ADL2135-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Business Simplification New Tools and Videos Andrew Weissman and Jim Winkler",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2135"
-    }, {
-        "file": ["MarketAustralia-7ADL2136-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Conquer Entertainment 3.0 with Amanda Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2136"
-    }, {
-        "file": ["MarketAustralia-7ADL2137-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "DNA Miracles with Amber Ridinger McLaughlin and Duane McLaughlin",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2137"
-    }, {
-        "file": ["MarketAustralia-7ADL2138-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Fundamentals of Recruiting with Jim Winkler and Field Leaders",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2138"
-    }, {
-        "file": ["MarketAustralia-7ADL2139-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Fundamentals of Retailing with Kevin Buckman and Field Leaders",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2139"
-    }, {
         "file": ["MarketAustralia-7ADL2140-Part1.mp3"],
         "category": "2014 World Conference",
         "short_desc": "Global Unified MPCP and Referral Network ",
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2140"
-    }, {
-        "file": ["MarketAustralia-7ADL2141-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Internet Marketing and Recruiting with Dennis Franks and Field Leaders",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2141"
-    }, {
-        "file": ["MarketAustralia-7ADL2144-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "MeetON with Anthony Akers",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2144"
     }, {
         "file": ["MarketAustralia-7ADL2145-Part1.mp3"],
         "category": "2014 World Conference",
@@ -820,13 +771,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2190"
     }, {
-        "file": ["MarketAustralia-7ADL2187-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "MeetON with Anthony Akers and Christian Vazquez",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2187"
-    }, {
         "file": ["MarketAustralia-7ADL2180-Part1.mp3"],
         "category": "2015 World Conference",
         "short_desc": "Motives by Loren Ridinger with Kim Ashley and Maria Checa",
@@ -896,13 +840,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2197"
-    }, {
-        "file": ["MarketAustralia-7ADL2194-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Social Media with Loren Ridinger and Steve Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2194"
     }, {
         "file": ["MarketAustralia-7ADL2192-Part1.mp3"],
         "category": "2015 World Conference",
@@ -2380,62 +2317,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2295"
-    }, {
-        "file": ["MarketAmerica-CADL2346-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Business Simplification New Tools and Videos Andrew Weissman and Jim Winkler",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2346"
-    }, {
-        "file": ["MarketAmerica-CADL2347-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Conquer Entertainment 3.0 with Amanda Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2347"
-    }, {
-        "file": ["MarketAmerica-CADL2348-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "DNA Miracles with Amber Ridinger McLaughlin and Duane McLaughlin",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2348"
-    }, {
-        "file": ["MarketAmerica-CADL2349-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Fundamentals of Recruiting with Jim Winkler and Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2349"
-    }, {
-        "file": ["MarketAmerica-CADL2350-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Fundamentals of Retailing with Kevin Buckman and Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2350"
-    }, {
-        "file": ["MarketAmerica-CADL2351-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Global Unified MPCP and Referal Network with JR Ridinger ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2351"
-    }, {
-        "file": ["MarketAmerica-CADL2352-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Internet Marketing and Recruiting with Dennis Franks and Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2352"
-    }, {
-        "file": ["MarketAmerica-CADL2355-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "MeetON with Anthony Akers",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2355"
     }, {
         "file": ["MarketAmerica-CADL2356-Part1.mp3"],
         "category": "2014 World Conference",
@@ -4082,61 +3963,12 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2161"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2143-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Business Simplification New Tools and Videos Andrew Weissman and Jim Winkler",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2143"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2144-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Conquer Entertainment 3.0 with Amanda Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2144"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2145-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "DNA Miracles with Amber Ridinger McLaughlin and Duane McLaughlin",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2145"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2146-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Fundamentals of Recruiting with Jim Winkler and Field Leaders",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2146"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2147-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Fundamentals of Retailing with Kevin Buckman and Field Leaders",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2147"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2148-Part1.mp3"],
         "category": "2014 World Conference",
         "short_desc": "Global Unified MPCP and Referral Network",
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2148"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2149-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Internet Marketing and Recruiting with Dennis Franks and Field Leaders",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2149"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2152-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "MeetON with Anthony Akers",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2152"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2153-Part1.mp3"],
         "category": "2014 World Conference",
