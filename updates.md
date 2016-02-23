@@ -528,6 +528,18 @@ MarketAmerica-ADL2430-Part1
 MarketAmerica-ADL2437-Part1 ===
 - MarketAustralia-7ADL2193-Part1
 
+2/23 pt9
+2015 - Economic Alchemy with JR Ridinger
+MarketAmerica-ADL2442-Part1 ===
+- MarketAustralia-7ADL2198-Part1
+
+2015 - Global Unification and International Expansion with Phil Guido
+MarketAmerica-ADL2434-Part1 ===
+- MarketAustralia-7ADL2190-Part1
+
+2015 - Motives by Loren Ridinger with Kim Ashley and Maria Checa
+MarketAmerica-ADL2423-Part1 ===
+- MarketAustralia-7ADL2180-Part1
 
 
 
