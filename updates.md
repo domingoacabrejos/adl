@@ -287,4 +287,65 @@ MarketAmerica-ADL2363-Part1 ===
 MarketAmerica-ADL2364-Part1 ===
 - MarketAmerica-CADL2364-Part1
 
+2/23
+2014 - Shopping Annuity Advancements with Marc Ashley
+MarketAmerica-ADL2365-Part1 ===
+- MarketAustralia-7ADL2154-Part1
+- MarketAmerica-CADL2365-Part1
+- MarketUnitedKingdom-UKADL2162-Part1
+
+2015 - Shopping Annuity Advancements with Marc Ashley
+MarketAmerica-ADL2457-Part1 ===
+- MarketAustralia-7ADL2228-Part1
+- MarketAmerica-CADL2308-Part1
+- MarketUnitedKingdom-UKADL2182-Part1
+- MarketHongKong-HKADL2085-Part1
+- MarketSingapore-SGADL2035-Part1
+
+2014 - Shopping Annuity and ABC Pattern with JR Ridinger
+MarketAmerica-ADL2366-Part1 ===
+- MarketAustralia-7ADL2155-Part1
+- MarketAmerica-CADL2366-Part1
+- MarketUnitedKingdom-UKADL2163-Part1
+
+2014 - TLS Business Developments with Dennis Franks
+MarketAmerica-ADL2368-Part1 ===
+- MarketAustralia-7ADL2157-Part1
+- MarketUnitedKingdom-UKADL2165-Part1
+
+2014 - The Latest in Internet Marketing and Technologies with Marc Ashley Part 1
+MarketAmerica-ADL2370-Part1 ===
+- MarketAustralia-7ADL2159-Part1
+- MarketAmerica-CADL2370-Part1
+- MarketUnitedKingdom-UKADL2167-Part1
+
+2014 - The Latest in Internet Marketing and Technologies with Marc Ashley Part 2
+MarketAmerica-ADL2371-Part1 ===
+- MarketAustralia-7ADL2158-Part1
+- MarketAmerica-CADL2367-Part1
+- MarketAmerica-CADL2371-Part1
+- MarketUnitedKingdom-UKADL2166-Part1
+
+2014 - The Latest in Social Media Strategies with Loren Ridinger and Steve Ashley
+MarketAmerica-ADL2367-Part1 ===
+- MarketAustralia-7ADL2156-Part1
+- MarketUnitedKingdom-UKADL2164-Part1
+
+2014 - ma Capital Resources with Dennis Franks
+MarketAmerica-ADL2353-Part1 ===
+- MarketAustralia-7ADL2142-Part1
+- MarketAmerica-CADL2353-Part1
+- MarketUnitedKingdom-UKADL2150-Part1
+
+2014 - ma WebCenters weBVolume Contest with Jeremy Fennema and Sarah Rose Stack
+MarketAmerica-ADL2354-Part1 ===
+- MarketAustralia-7ADL2143-Part1
+- MarketAmerica-CADL2354-Part1
+- MarketUnitedKingdom-UKADL2151-Part1
+
+2014 - nutraMetrix and International Health Professional Program
+MarketAmerica-ADL2361-Part1 ===
+- MarketAustralia-7ADL2150-Part1
+- MarketAmerica-CADL2361-Part1
+
 

@@ -330,13 +330,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2172"
     }, {
-        "file": ["MarketAustralia-7ADL2150-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": " nutraMetrix and International Health Professional Program with Brandi Murphy and Lorin Sourb",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2150"
-    }, {
         "file": ["MarketAustralia-7ADL2153-Part1.mp3"],
         "category": "2014 World Conference",
         "short_desc": "An Entrepreneur's Success with JR Ridinger Joseph Cartagena and Andrew Weissman",
@@ -371,62 +364,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2149"
-    }, {
-        "file": ["MarketAustralia-7ADL2154-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2154"
-    }, {
-        "file": ["MarketAustralia-7ADL2155-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Shopping Annuity and ABC Pattern with JR Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2155"
-    }, {
-        "file": ["MarketAustralia-7ADL2157-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "TLS Business Developments with Dennis Franks",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2157"
-    }, {
-        "file": ["MarketAustralia-7ADL2159-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 1",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2159"
-    }, {
-        "file": ["MarketAustralia-7ADL2158-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 2",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2158"
-    }, {
-        "file": ["MarketAustralia-7ADL2156-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Social Media Strategies with Loren Ridinger and Steve Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2156"
-    }, {
-        "file": ["MarketAustralia-7ADL2142-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "ma Capital Resources with Dennis Franks",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2142"
-    }, {
-        "file": ["MarketAustralia-7ADL2143-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "ma WebCenters weBVolume Contest with Jeremy Fennema and Sarah Rose Stack",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2143"
     }, {
         "file": ["MarketAustralia-7ADL2229-Part1.mp3"],
         "category": "2015 International Convention",
@@ -518,13 +455,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2240"
-    }, {
-        "file": ["MarketAustralia-7ADL2228-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley  ",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2228"
     }, {
         "file": ["MarketAustralia-7ADL2215-Part1.mp3"],
         "category": "2015 International Convention",
@@ -2294,64 +2224,8 @@
         "category": "2014 World Conference",
         "short_desc": "New Product Spotlight Health and Nutrition  ",
         "country": "CAN",
-        "content_lang": "ENG",
+        "content_lang": "ENG",   
         "prd_code": "CADL2359"
-    }, {
-        "file": ["MarketAmerica-CADL2365-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2365"
-    }, {
-        "file": ["MarketAmerica-CADL2366-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Shopping Annuity and ABC Pattern with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2366"
-    }, {
-        "file": ["MarketAmerica-CADL2370-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 1",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2370"
-    }, {
-        "file": ["MarketAmerica-CADL2367-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 2",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2367"
-    }, {
-        "file": ["MarketAmerica-CADL2371-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 2",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2371"
-    }, {
-        "file": ["MarketAmerica-CADL2353-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "ma Capital Resources with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2353"
-    }, {
-        "file": ["MarketAmerica-CADL2354-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "ma WebCenters weBVolume Contest with Jeremy Fennema and Sarah Rose Stack",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2354"
-    }, {
-        "file": ["MarketAmerica-CADL2361-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "nutraMetrix and International Health Professional Program  ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2361"
     }, {
         "file": ["MarketAmerica-CADL2309-Part1.mp3"],
         "category": "2015 International Convention",
@@ -2443,13 +2317,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2421"
-    }, {
-        "file": ["MarketAmerica-CADL2308-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley  ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2308"
     }, {
         "file": ["MarketAmerica-CADL2233-Part1.mp3"],
         "category": "2015 International Convention",
@@ -3900,62 +3767,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2154"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2162-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2162"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2163-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "Shopping Annuity and ABC Pattern with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2163"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2165-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "TLS Business Developments with Dennis Franks",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2165"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2167-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 1",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2167"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2166-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Internet Marketing and Technologies with Marc Ashley Part 2",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2166"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2164-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "The Latest in Social Media Strategies with Loren Ridinger and Steve Ashley",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2164"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2150-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "ma Capital Resources with Dennis Franks",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2150"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2151-Part1.mp3"],
-        "category": "2014 World Conference",
-        "short_desc": "ma WebCenters weBVolume Contest with Jeremy Fennema and Sarah Rose Stack",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2151"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2183-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "Building Your Shopping Annuity and Creating Duplication in your Organization with JR Ridinger  ",
@@ -4032,13 +3843,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2194"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2182-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley  ",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2182"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2172-Part1.mp3"],
         "category": "2015 International Convention",
@@ -4782,13 +4586,6 @@
         "content_lang": "ENG",
         "prd_code": "HKADL2097"
     }, {
-        "file": ["MarketHongKong-HKADL2085-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley  ",
-        "country": "HKG",
-        "content_lang": "ENG",
-        "prd_code": "HKADL2085"
-    }, {
         "file": ["MarketHongKong-HKADL2072-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "Shopping Annuity Ambassadors with Elizabeth Weber and Field Leaders  ",
@@ -5502,13 +5299,6 @@
         "country": "SGP",
         "content_lang": "ENG",
         "prd_code": "SGADL2047"
-    }, {
-        "file": ["MarketSingapore-SGADL2035-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Advancements with Marc Ashley",
-        "country": "SGP",
-        "content_lang": "ENG",
-        "prd_code": "SGADL2035"
     }, {
         "file": ["MarketSingapore-SGADL2022-Part1.mp3"],
         "category": "2015 International Convention",
