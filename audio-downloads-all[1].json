@@ -498,104 +498,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2199"
     }, {
-        "file": ["MarketAustralia-7ADL2180-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Motives by Loren Ridinger with Kim Ashley and Maria Checa",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2180"
-    }, {
-        "file": ["MarketAustralia-7ADL2179-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Motives, Lumiere de Vie and Motives Mavens with Loren Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2179"
-    }, {
-        "file": ["MarketAustralia-7ADL2188-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Products for Your Shopping Annuity Buying in Bulk with Todd and Laura Laire",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2188"
-    }, {
-        "file": ["MarketAustralia-7ADL2174-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity Ambassadors with Elizabeth Weber and Carl Eklund",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2174"
-    }, {
-        "file": ["MarketAustralia-7ADL2191-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity Blastoff with Andrew Weissman and Jim Winkler",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2191"
-    }, {
-        "file": ["MarketAustralia-7ADL2176-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity DNA with Kevin Buckman",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2176"
-    }, {
-        "file": ["MarketAustralia-7ADL2175-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity Overview and Assessment with Jeremy Fennema and Sarah Rose and Ryan Stack",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2175"
-    }, {
-        "file": ["MarketAustralia-7ADL2177-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity Simplification with Andrew Weissman and Jim Winkler",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2177"
-    }, {
-        "file": ["MarketAustralia-7ADL2185-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity Technology Advancements Part 1 with Marc Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2185"
-    }, {
-        "file": ["MarketAustralia-7ADL2197-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Shopping Annuity Technology Advancements Part 2 with Marc Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2197"
-    }, {
-        "file": ["MarketAustralia-7ADL2192-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Staying in Business and Succeeding with Dennis Franks and Jim Winkler",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2192"
-    }, {
-        "file": ["MarketAustralia-7ADL2182-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "TLS with Dennis Franks and Susan Pasqual",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2182"
-    }, {
-        "file": ["MarketAustralia-7ADL2189-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "The World of Annuity with Bishop Jordan",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2189"
-    }, {
-        "file": ["MarketAustralia-7ADL2173-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Welcome to Market America 2015 World Conference with Loren Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2173"
-    }, {
         "file": ["MarketAustralia-7ADL2183-Part1.mp3"],
         "category": "2015 World Conference",
         "short_desc": "nutraMetrix with Brandi Murphy",
@@ -2049,7 +1951,7 @@
         "category": "2014 World Conference",
         "short_desc": "New Product Spotlight Health and Nutrition  ",
         "country": "CAN",
-        "content_lang": "ENG",   
+        "content_lang": "ENG",
         "prd_code": "CADL2359"
     }, {
         "file": ["MarketAmerica-CADL2418-Part1.mp3"],
@@ -2079,13 +1981,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2255"
-    }, {
-        "file": ["MarketAmerica-CADL2203-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Welcome to Market America 2015 World Conference with Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2203"
     }, {
         "file": ["MarketAmerica-CADL2379-Part1.mp3"],
         "category": "Chinese Boot Camp 2014",
@@ -4773,13 +4668,6 @@
         "country": "SGP",
         "content_lang": "ENG",
         "prd_code": "SGADL2003"
-    }, {
-        "file": ["MarketSingapore-SGADL2001-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "Welcome to Market America 2015 World Conference with Loren Ridinger",
-        "country": "SGP",
-        "content_lang": "ENG",
-        "prd_code": "SGADL2001"
     }, {
         "file": ["MarketTaiwan-TADL2003-Part1.mp3"],
         "category": "2009",

@@ -541,5 +541,59 @@ MarketAmerica-ADL2434-Part1 ===
 MarketAmerica-ADL2423-Part1 ===
 - MarketAustralia-7ADL2180-Part1
 
+2015 - Motives, Lumiere de Vie and Motives Mavens with Loren Ridinger
+MarketAmerica-ADL2424-Part1 ===
+- MarketAustralia-7ADL2179-Part1
+
+2015 - Products for Your Shopping Annuity Buying in Bulk with Todd and Laura Laire
+MarketAmerica-ADL2432-Part1 ===
+- MarketAustralia-7ADL2188-Part1
+
+2015 - Shopping Annuity Ambassadors with Elizabeth Weber and Carl Eklund
+MarketAmerica-ADL2418-Part1 ===
+- MarketAustralia-7ADL2174-Part1
+
+2015 - Shopping Annuity Blastoff with Andrew Weissman and Jim Winkler
+MarketAmerica-ADL2436-Part1 ===
+- MarketAustralia-7ADL2191-Part1
+
+2015 - Shopping Annuity DNA with Kevin Buckman
+MarketAmerica-ADL2420-Part1 ===
+- MarketAustralia-7ADL2176-Part1
+
+2015 - Shopping Annuity Overview and Assessment with Jeremy Fennema and Sarah Rose and Ryan Stack
+MarketAmerica-ADL2419-Part1 ===
+- MarketAustralia-7ADL2175-Part1
+
+2015 - Shopping Annuity Simplification with Andrew Weissman and Jim Winkler
+MarketAmerica-ADL2421-Part1 ===
+- MarketAustralia-7ADL2177-Part1
+
+2015 - Shopping Annuity Technology Advancements Part 1 with Marc Ashley
+MarketAmerica-ADL2429-Part1 ===
+- MarketAustralia-7ADL2185-Part1
+
+2015 - Shopping Annuity Technology Advancements Part 2 with Marc Ashley
+MarketAmerica-ADL2440-Part1 ===
+- MarketAustralia-7ADL2197-Part1
+
+2015 - Staying in Business and Succeeding with Dennis Franks and Jim Winkler
+MarketAmerica-ADL2435-Part1 ===
+- MarketAustralia-7ADL2192-Part1
+
+2015 - TLS with Dennis Franks and Susan Pasqual
+MarketAmerica-ADL2426-Part1 ===
+- MarketAustralia-7ADL2182-Part1
+
+2015 - The World of Annuity with Bishop Jordan
+MarketAmerica-ADL2433-Part1 ===
+- MarketAustralia-7ADL2189-Part1
+
+2015 - Welcome to Market America 2015 World Conference with Loren Ridinger
+MarketAmerica-ADL2417-Part1 ===
+- MarketAustralia-7ADL2173-Part1
+- MarketAmerica-CADL2203-Part1
+- MarketSingapore-SGADL2001-Part1
+
 
 
