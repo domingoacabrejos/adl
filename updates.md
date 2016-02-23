@@ -287,7 +287,7 @@ MarketAmerica-ADL2363-Part1 ===
 MarketAmerica-ADL2364-Part1 ===
 - MarketAmerica-CADL2364-Part1
 
-2/23
+2/23 pt6
 2014 - Shopping Annuity Advancements with Marc Ashley
 MarketAmerica-ADL2365-Part1 ===
 - MarketAustralia-7ADL2154-Part1
@@ -347,5 +347,102 @@ MarketAmerica-ADL2354-Part1 ===
 MarketAmerica-ADL2361-Part1 ===
 - MarketAustralia-7ADL2150-Part1
 - MarketAmerica-CADL2361-Part1
+
+2/23 pt7
+2015 - Building Your Shopping Annuity and Creating Duplication in your Organization with JR Ridinger
+MarketAmerica-ADL2458-Part1 ===
+- MarketAustralia-7ADL2229-Part1
+- MarketAmerica-CADL2309-Part1
+- MarketUnitedKingdom-UKADL2183-Part1
+- MarketHongKong-HKADL2086-Part1
+- MarketSingapore-SGADL2036-Part1
+
+2015 - Building in the Homes and Leading to Events with Charlie Baer and Field Leaders
+MarketAmerica-ADL2462-Part1 ===
+- MarketAustralia-7ADL2233-Part1
+- MarketAmerica-CADL2313-Part1
+- MarketUnitedKingdom-UKADL2187-Part1
+- MarketHongKong-HKADL2090-Part1
+- MarketSingapore-SGADL2040-Part1
+
+2015 - Congregation to Aggregation with Bishop Bernard Jordan
+MarketAmerica-ADL2460-Part1 ===
+- MarketAustralia-7ADL2231-Part1
+- MarketAmerica-CADL2311-Part1
+- MarketUnitedKingdom-UKADL2185-Part1
+- MarketHongKong-HKADL2088-Part1
+- MarketSingapore-SGADL2038-Part1
+
+2015 - Convert Spending into Earning with Loren Ridinger
+MarketAmerica-ADL2465-Part1 ===
+- MarketAustralia-7ADL2236-Part1
+- MarketAmerica-CADL2417-Part1
+- MarketHongKong-HKADL2093-Part1
+- MarketSingapore-SGADL2043-Part1
+
+2015 - Global IRC, UGC, Cross Pollination and Asia Pacific Updates with Phil Guido
+MarketAmerica-ADL2461-Part1 ===
+- MarketAustralia-7ADL2232-Part1
+- MarketAmerica-CADL2312-Part1
+- MarketUnitedKingdom-UKADL2186-Part1
+- MarketHongKong-HKADL2089-Part1
+- MarketSingapore-SGADL2039-Part1
+
+2015 - MeetON.com Innovations with Anthony Akers and Christian Vazquez
+MarketAmerica-ADL2459-Part1
+- MarketAustralia-7ADL2230-Part1
+- MarketAmerica-CADL2310-Part1
+- MarketUnitedKingdom-UKADL2184-Part1
+- MarketHongKong-HKADL2087-Part1
+- MarketSingapore-SGADL2037-Part1
+
+2015 - Motives for La La with La La Anthony
+MarketAmerica-ADL2450-Part1 ===
+- MarketAustralia-7ADL2221-Part1
+- MarketUnitedKingdom-UKADL2175-Part1
+- MarketHongKong-HKADL2078-Part1
+- MarketSingapore-SGADL2028-Part1
+
+2015 - Power Profiles with Ryan Stack, Olivia Li, Andrew Chee and Jack Benson
+MarketAmerica-ADL2471-Part1 ===
+- MarketAustralia-7ADL2242-Part1
+- MarketAmerica-CADL2423-Part1
+- MarketUnitedKingdom-UKADL2196-Part1
+- MarketHongKong-HKADL2099-Part1
+- MarketSingapore-SGADL2049-Part1
+
+2015 - Prospecting, Recruiting and Sponsoring with Jim Winkler and Field Leaders
+MarketAmerica-ADL2463-Part1 ===
+- MarketAustralia-7ADL2234-Part1
+- MarketAmerica-CADL2314-Part1
+- MarketUnitedKingdom-UKADL2188-Part1
+- MarketHongKong-HKADL2091-Part1
+- MarketSingapore-SGADL2041-Part1
+
+2015 - Recruiting with Motives with Lisa Martin
+MarketAmerica-ADL2449-Part1 ===
+- MarketAustralia-7ADL2220-Part1
+- MarketAmerica-CADL2300-Part1
+- MarketUnitedKingdom-UKADL2174-Part1
+- MarketHongKong-HKADL2077-Part1
+- MarketSingapore-SGADL2027-Part1
+- MarketTaiwan-TADL2125-Part1
+
+2015 - SHOP.COM Digital Marketing Expansion with Michael Brady
+MarketAmerica-ADL2454-Part1 ===
+- MarketAustralia-7ADL2225-Part1
+- MarketAmerica-CADL2305-Part1
+- MarketUnitedKingdom-UKADL2179-Part1
+- MarketHongKong-HKADL2082-Part1
+- MarketSingapore-SGADL2032-Part1
+
+2015 - SHOP.COM and UnFranchise Technology Enhancements with Marc Ashley
+MarketAmerica-ADL2469-Part1 ===
+- MarketAustralia-7ADL2240-Part1
+- MarketAmerica-CADL2421-Part1
+- MarketUnitedKingdom-UKADL2194-Part1
+- MarketHongKong-HKADL2097-Part1
+- MarketSingapore-SGADL2047-Part1
+
 
 
