@@ -444,5 +444,90 @@ MarketAmerica-ADL2469-Part1 ===
 - MarketHongKong-HKADL2097-Part1
 - MarketSingapore-SGADL2047-Part1
 
+2/23 pt8
+2015 - Shopping Annuity Duplication with Jim Winkler and Andrew Weissman
+MarketAmerica-ADL2447-Part1 ===
+- MarketAustralia-7ADL2218-Part1
+- MarketAmerica-CADL2287-Part1
+- MarketUnitedKingdom-UKADL2172-Part1
+- MarketHongKong-HKADL2075-Part1
+- MarketSingapore-SGADL2025-Part1
+- MarketTaiwan-TADL2123-Part1
+
+2015 - Shopping Annuity Enhancements and Resources
+MarketAmerica-ADL2445-Part1 ===
+- MarketSingapore-SGADL2023-Part1
+
+2015 - Shopping Annuity Recruiting with Carl Eklund
+MarketAmerica-ADL2464-Part1 ===
+- MarketAustralia-7ADL2235-Part1
+- MarketAmerica-CADL2315-Part1
+- MarketUnitedKingdom-UKADL2189-Part1
+- MarketHongKong-HKADL2092-Part1
+- MarketSingapore-SGADL2042-Part1
+
+2015 - Shopping Annuity Revolution with JR Ridinger
+MarketAmerica-ADL2470-Part1 ===
+- MarketAustralia-7ADL2241-Part1
+- MarketAmerica-CADL2422-Part1
+- MarketUnitedKingdom-UKADL2195-Part1
+- MarketHongKong-HKADL2098-Part1
+- MarketSingapore-SGADL2048-Part1
+
+2015 - Shopping Annuity Social Media Contest and Campaigns with Elsi Pacheco
+MarketAmerica-ADL2446-Part1 ===
+- MarketAustralia-7ADL2217-Part1
+- MarketAmerica-CADL2260-Part1
+- MarketUnitedKingdom-UKADL2171-Part1
+- MarketHongKong-HKADL2074-Part1
+- MarketSingapore-SGADL2024-Part1
+- MarketTaiwan-TADL2122-Part1
+
+2015 - The Latest Mobile Technologies with Steve Ashley
+MarketAmerica-ADL2456-Part1 ===
+- MarketAustralia-7ADL2227-Part1
+- MarketAmerica-CADL2307-Part1
+- MarketUnitedKingdom-UKADL2181-Part1
+- MarketHongKong-HKADL2084-Part1
+- MarketSingapore-SGADL2034-Part1
+
+2015 - The Newest DNA Miracles Arrival
+MarketAmerica-ADL2467-Part1 ===
+- MarketAustralia-7ADL2238-Part1
+- MarketAmerica-CADL2419-Part1
+- MarketUnitedKingdom-UKADL2192-Part1
+- MarketHongKong-HKADL2095-Part1
+- MarketSingapore-SGADL2045-Part1
+
+2015 - The Skinny on TLS with Dennis Franks and Susan Pasqual
+MarketAmerica-ADL2455-Part1 ===
+- MarketAustralia-7ADL2226-Part1
+- MarketAmerica-CADL2306-Part1
+- MarketUnitedKingdom-UKADL2180-Part1
+- MarketHongKong-HKADL2083-Part1
+- MarketSingapore-SGADL2033-Part1
+
+2015 - Welcome to Market America's 2015 International Convention with Loren Ridinger
+MarketAmerica-ADL2443-Part1
+- MarketAustralia-7ADL2214-Part1
+- MarketAmerica-CADL2224-Part1
+- MarketUnitedKingdom-UKADL2168-Part1
+- MarketHongKong-HKADL2071-Part1
+- MarketSingapore-SGADL2021-Part1
+- MarketTaiwan-TADL2119-Part1
+
+2015 - Belief with Fat Joe
+MarketAmerica-ADL2439-Part1 ===
+- MarketAustralia-7ADL2195-Part1
+
+2015 - Building Your Shopping Annuity with JR Ridinger, Elizabeth Weber and Carl Eklund
+MarketAmerica-ADL2430-Part1
+- MarketAustralia-7ADL2186-Part1
+
+2015 - DNA with Marty Weissman, Brandi Murphy and Dr. Mark Lange
+MarketAmerica-ADL2437-Part1 ===
+- MarketAustralia-7ADL2193-Part1
+
+
 
 
