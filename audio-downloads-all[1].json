@@ -1100,13 +1100,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2102"
     }, {
-        "file": ["MarketAmerica-CADL2118-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Get on the Fast Track with ma's Top Money Earners w/ Arlene Lowy & Jim Winkler",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2118"
-    }, {
         "file": ["MarketAmerica-CADL2110-Part1.mp3"],
         "category": "2010 International Convention",
         "short_desc": "Market America's Newest Products with Tanya Smith",
@@ -2100,13 +2093,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2083"
-    }, {
-        "file": ["MarketAmerica-CADL103-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Get with the Program with Frank Keefer",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL103"
     }, {
         "file": ["MarketAmerica-CADL113-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -3248,13 +3234,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2166"
-    }, {
-        "file": ["MarketAmerica-CADL2263-Part1.mp3"],
-        "category": "ma Capital Resources",
-        "short_desc": "ma Capital Resources with Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2263"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2120-Part1.mp3"],
         "category": "2013 International Convention",
@@ -6698,13 +6677,6 @@
         "country": "USA",
         "content_lang": "ENG",
         "prd_code": "ADL2263"
-    }, {
-        "file": ["MarketAmerica-ADL2313-Part1.mp3"],
-        "category": "Market America Mexico",
-        "short_desc": "2012 World Conference - Eva Longoria",
-        "country": "USA",
-        "content_lang": "ENG",
-        "prd_code": "ADL2313"
     }, {
         "file": ["MarketAmerica-ADL2312-Part1.mp3"],
         "category": "Market America Mexico",
