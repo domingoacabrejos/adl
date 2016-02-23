@@ -1121,13 +1121,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2103"
     }, {
-        "file": ["MarketAmerica-CADL2101-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "ma Capital Resources with Kevin Buckman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2101"
-    }, {
         "file": ["MarketAmerica-CADL2067-Part1.mp3"],
         "category": "2010 World Conference",
         "short_desc": "Backed by Science, Powered by Demand - Tanya Smith & Dennis Franks",
@@ -1148,13 +1141,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2062"
-    }, {
-        "file": ["MarketAmerica-CADL2050-Part1.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "Establishing Your Plan of Action - Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2050"
     }, {
         "file": ["MarketAmerica-CADL2063-Part1.mp3"],
         "category": "2010 World Conference",
@@ -1296,13 +1282,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2180"
     }, {
-        "file": ["MarketAmerica-CADL2173-Part1.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Conquer Entertainment - Changing the Music Industry with Amanda Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2173"
-    }, {
         "file": ["MarketAmerica-CADL2176-Part1.mp3"],
         "category": "2011 International Convention",
         "short_desc": "Custom Health Solutions for All Ages with Tanya Smith  ",
@@ -1372,13 +1351,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2172"
-    }, {
-        "file": ["MarketAmerica-CADL2184-Part1.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Succeeding with NPO & ma Capital Resources with Kevin Buckman and Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2184"
     }, {
         "file": ["MarketAmerica-CADL2168-Part1.mp3"],
         "category": "2011 International Convention",
@@ -1646,13 +1618,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2227"
     }, {
-        "file": ["MarketAmerica-CADL2200-Part1.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "A Music Revolution with Conquer 3.0 with Amanda Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2200"
-    }, {
         "file": ["MarketAmerica-CADL2205-Part1.mp3"],
         "category": "2012 ma World Conference",
         "short_desc": "Build on the Newest Products with Tanya Smith",
@@ -1708,13 +1673,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2214"
-    }, {
-        "file": ["MarketAmerica-CADL2206-Part1.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "Succeeding with NPO & ma Capital Resources with Kevin Buckman and Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2206"
     }, {
         "file": ["MarketAmerica-CADL2201-Part1.mp3"],
         "category": "2012 ma World Conference",
@@ -2129,26 +2087,12 @@
         "content_lang": "MAN",
         "prd_code": "CADL2382"
     }, {
-        "file": ["MarketAmerica-CADL22-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "2004 Dream Team Success Stories",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL22"
-    }, {
         "file": ["MarketAmerica-CADL2090-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "Accellerating Fundamentals - Dennis Franks  ",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2090"
-    }, {
-        "file": ["MarketAmerica-CADL14-Part1.mp3", "MarketAmerica-CADL14-Part2.mp3", "MarketAmerica-CADL14-Part3.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Defining Market America - What Is, Is. What isn't, Isn't with JR Ridinger (part 1,2, & 3)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL14"
     }, {
         "file": ["MarketAmerica-CADL2083-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -2198,13 +2142,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL119"
-    }, {
-        "file": ["MarketAmerica-CADL186-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Built on Product.  Powered by People. with Marty Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL186"
     }, {
         "file": ["MarketAmerica-CADL2194-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -3423,13 +3360,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2140"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2021-Part1.mp3"],
-        "category": "General",
-        "short_desc": "2004 Dream Team Success Stories",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2021"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2022-Part1.mp3"],
         "category": "General",

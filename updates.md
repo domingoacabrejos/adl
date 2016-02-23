@@ -595,5 +595,44 @@ MarketAmerica-ADL2417-Part1 ===
 - MarketAmerica-CADL2203-Part1
 - MarketSingapore-SGADL2001-Part1
 
+2/23 pt10
+2012 - A Music Revolution with Conquer 3.0 with Amanda Ridinger
+MarketAmerica-ADL2200-Part1 ===
+- MarketAmerica-CADL2200-Part1
+
+2011 - Conquer Entertainment - Changing the Music Industry with Amanda Ridinger
+MarketAmerica-ADL2173-Part1 ===
+- MarketAmerica-CADL2173-Part1
+
+2004 - 2004 Dream Team Success Stories
+MarketAmerica-ADL22-Part1 ===
+- MarketAmerica-CADL22-Part1
+- MarketUnitedKingdom-UKADL2021-Part1
+
+Built on Product.  Powered by People. with Marty Weissman
+MarketAmerica-ADL186-Part1 ===
+- MarketAmerica-CADL186-Part1
+
+Defining Market America - What Is, Is. What isn't, Isn't with JR Ridinger (part 1,2, & 3)
+MarketAmerica-ADL14-Part1 ===
+- MarketAmerica-CADL14-Part1 (IS NOT IN AUDIO FILES BUT ON JSON)
+
+Establishing Your Plan of Action - Dennis Franks
+MarketAmerica-ADL2050-Part1 ===
+- MarketAmerica-CADL2050-Part1
+
+Get on the Fast Track with ma's Top Money Earners w/ Arlene Lowy & Jim Winkler
+MarketAmerica-ADL2118-Part1 ===
+- MarketAmerica-CADL2118-Part1
+
+Succeeding with NPO & ma Capital Resources with Kevin Buckman and Jeremy Fennema
+MarketAmerica-ADL2184-Part1 ===
+- MarketAmerica-CADL2206-Part1 (IS NOT IN AUDIO FILES BUT ON JSON)
+- MarketAmerica-CADL2184-Part1
+
+ma Capital Resources with Kevin Buckman
+MarketAmerica-ADL2101-Part1 ===
+- MarketAmerica-CADL2101-Part1
+
 
 
