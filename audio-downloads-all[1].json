@@ -372,13 +372,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2215"
     }, {
-        "file": ["MarketAustralia-7ADL2223-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "nutraMetrix Updates with Brandi Murphy  ",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2223"
-    }, {
         "file": ["MarketAustralia-7ADL2212-Part1.mp3"],
         "category": "2015 Market Australia Annual Convention",
         "short_desc": "ABCs of Building in Depth with Phil Guido",
@@ -484,13 +477,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2199"
     }, {
-        "file": ["MarketAustralia-7ADL2183-Part1.mp3"],
-        "category": "2015 World Conference",
-        "short_desc": "nutraMetrix with Brandi Murphy",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2183"
-    }, {
         "file": ["MarketAustralia-7ADL2038-Part1.mp3"],
         "category": "Audio of the Month",
         "short_desc": "2010 International Convention: JR Ridinger Gala Address (3rd Qtr 2010)",
@@ -532,13 +518,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2007"
-    }, {
-        "file": ["MarketAustralia-7ADL2072-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Building Business Principles with Rising Field Leaders (3rd Quarter 2012)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2072"
     }, {
         "file": ["MarketAustralia-7ADL2085-Part1.mp3"],
         "category": "Follow-up and ABC Pattern of Building Depth",
@@ -785,13 +764,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL207"
     }, {
-        "file": ["MarketAmerica-CADL192-Part1.mp3"],
-        "category": "2009 World Conference",
-        "short_desc": "Changing the Face of the Cosmetics Industry - Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL192"
-    }, {
         "file": ["MarketAmerica-CADL196-Part1.mp3"],
         "category": "2009 World Conference",
         "short_desc": "Cutting Edge Technology Pays - Jeremy Fennema",
@@ -890,13 +862,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2109"
     }, {
-        "file": ["MarketAmerica-CADL2115-Part1.mp3", "MarketAmerica-CADL2115-Part2.mp3", "MarketAmerica-CADL2115-Part3.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Believe the Unbelievable with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2115"
-    }, {
         "file": ["MarketAmerica-CADL2114-Part1.mp3", "MarketAmerica-CADL2114-Part2.mp3"],
         "category": "2010 International Convention",
         "short_desc": "Building the Business: Merging the Old with the New with JR Ridinger",
@@ -932,26 +897,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2111"
     }, {
-        "file": ["MarketAmerica-CADL2124-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Tap Into Another Billion Dollar Industry with Loren Ridinger and Dennis Franks ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2124"
-    }, {
         "file": ["MarketAmerica-CADL2099-Part1.mp3"],
         "category": "2010 International Convention",
         "short_desc": "Tap into the World's Largest Prospecting Tool - Grow Your Business with Social Media with Steve Ashley",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2099"
-    }, {
-        "file": ["MarketAmerica-CADL2100-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "The New NPO Program: With over 1.5 Million Non-Profits in the United States; the Volume Potential is Unlimited with Kevin Buckman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2100"
     }, {
         "file": ["MarketAmerica-CADL2116-Part1.mp3", "MarketAmerica-CADL2116-Part2.mp3"],
         "category": "2010 International Convention",
@@ -995,13 +946,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2110"
     }, {
-        "file": ["MarketAmerica-CADL2103-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Market Americas Fastest Growing Division - nutraMetrix with Brandi Murphy",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2103"
-    }, {
         "file": ["MarketAmerica-CADL2067-Part1.mp3"],
         "category": "2010 World Conference",
         "short_desc": "Backed by Science, Powered by Demand - Tanya Smith & Dennis Franks",
@@ -1022,13 +966,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2062"
-    }, {
-        "file": ["MarketAmerica-CADL2057-Part1.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "Leading the Beauty and Cosmetics Industry - Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2057"
     }, {
         "file": ["MarketAmerica-CADL2055-Part1.mp3"],
         "category": "2010 World Conference",
@@ -1177,13 +1114,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2183"
     }, {
-        "file": ["MarketAmerica-CADL2189-Part1.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Learning from the Experts - Doctors Spotlight with Brandi Murphy",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2189"
-    }, {
         "file": ["MarketAmerica-CADL2188-Part1.mp3"],
         "category": "2011 International Convention",
         "short_desc": "Market America Products. Only the Best of the Best with Marty Weissman",
@@ -1268,13 +1198,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2160"
     }, {
-        "file": ["MarketAmerica-CADL2158-Part1.mp3"],
-        "category": "2011 World Conference",
-        "short_desc": "Motives Cosmetics by Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2158"
-    }, {
         "file": ["MarketAmerica-CADL2136-Part1.mp3"],
         "category": "2011 World Conference",
         "short_desc": "Networking With Social Media On the Go and ma Mobile with Steve Ashley and Eugene Wallace",
@@ -1351,13 +1274,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2222"
-    }, {
-        "file": ["MarketAmerica-CADL2239-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Building Business Principles with Rising Field Leaders (3rd Quarter 2012)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2239"
     }, {
         "file": ["MarketAmerica-CADL2243-Part1.mp3"],
         "category": "2012 International Convention",
@@ -1534,13 +1450,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2323"
     }, {
-        "file": ["MarketAmerica-CADL2319-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Motives for Loren and La La with Loren Ridinger and La La Anthony",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2319"
-    }, {
         "file": ["MarketAmerica-CADL2337-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Social Media Tips, Strategies and Techniques with Loren Ridinger and Steve Ashley",
@@ -1576,13 +1485,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2297"
     }, {
-        "file": ["MarketAmerica-CADL2280-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Developing Your Motives Business: Pop-Up Shops with Loren Ridinger, La La Anthony & Christian Vazquez",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2280"
-    }, {
         "file": ["MarketAmerica-CADL2161-Part1.mp3"],
         "category": "2013 World Conference",
         "short_desc": "Ensuring Your Success with JR Ridinger",
@@ -1603,20 +1505,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2277"
-    }, {
-        "file": ["MarketAmerica-CADL2274-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Major Events = Major Success with Jacki Blasko, Al Yentsch, Stacy Tung and Andy Docos",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2274"
-    }, {
-        "file": ["MarketAmerica-CADL2279-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Motives Runway Show featuring New Products with Kim Yow, Maria Checa & Motives Trainers",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2279"
     }, {
         "file": ["MarketAmerica-CADL2281-Part1.mp3"],
         "category": "2013 World Conference",
@@ -1659,13 +1547,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2418"
-    }, {
-        "file": ["MarketAmerica-CADL2303-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "NutraMetrix Updates with Brandi Murphy",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2303"
     }, {
         "file": ["MarketAmerica-CADL2233-Part1.mp3"],
         "category": "2015 International Convention",
@@ -1947,13 +1828,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL72"
     }, {
-        "file": ["MarketAmerica-CADL2085-Part1.mp3"],
-        "category": "Health and Nutrition",
-        "short_desc": "Incorporating nutraMetrix in your MA University - Brandi Murphy (2009 4th Qtr)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2085"
-    }, {
         "file": ["MarketAmerica-CADL2117-Part1.mp3"],
         "category": "Motives Audio Curriculum",
         "short_desc": "The Only Shortcut to Success: Building from Event to Event w/ Elizabeth Weber & Frank Keefer",
@@ -1982,27 +1856,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2132"
     }, {
-        "file": ["MarketAmerica-CADL2251-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "How to Host an Event with Amanda Wall",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2251"
-    }, {
-        "file": ["MarketAmerica-CADL2253-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "Motives for La La with Shareeda Best",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2253"
-    }, {
-        "file": ["MarketAmerica-CADL2198-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "New Era of Motives Begins: Motives for La La with Loren Ridinger  ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2198"
-    }, {
         "file": ["MarketAmerica-CADL2245-Part1.mp3"],
         "category": "Motives Audio Curriculum",
         "short_desc": "Product Training Face, Lips, Eyes and Cheeks with Kim Yow",
@@ -2023,13 +1876,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2217"
-    }, {
-        "file": ["MarketAmerica-CADL2252-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "Recruiting with Motives with Amanda Wall",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2252"
     }, {
         "file": ["MarketAmerica-CADL2254-Part1.mp3"],
         "category": "Motives Audio Curriculum",
@@ -2052,13 +1898,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2209"
     }, {
-        "file": ["MarketAmerica-CADL2246-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "Up sell Brushes, Treatments and Primers with Eleanor Tuttle",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2246"
-    }, {
         "file": ["MarketAmerica-CADL2248-Part1.mp3"],
         "category": "Motives Audio Curriculum",
         "short_desc": "Why Custom Blend? with Director of Sales for Motives, Lisa Kostka",
@@ -2080,33 +1919,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2059"
     }, {
-        "file": ["MarketAmerica-CADL4-Part1.mp3", "MarketAmerica-CADL4-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Basic 5 with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL4"
-    }, {
-        "file": ["MarketAmerica-CADL2-Part1.mp3", "MarketAmerica-CADL2-Part2.mp3", "MarketAmerica-CADL2-Part3.mp3", "MarketAmerica-CADL2-Part4.mp3", "MarketAmerica-CADL2-Part5.mp3", "MarketAmerica-CADL2-Part6.mp3", "MarketAmerica-CADL2-Part7.mp3", "MarketAmerica-CADL2-Part8.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Market America Basic 5 with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2"
-    }, {
         "file": ["MarketAmerica-CADL2092-Part1.mp3"],
         "category": "President and CEO JR Ridinger",
         "short_desc": "Programming Yourself to be a Hopeless Success - JR Ridinger  ",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2092"
-    }, {
-        "file": ["MarketAmerica-CADL12-Part1.mp3", "MarketAmerica-CADL12-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Back to the Basics - Taking Market America to the World",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL12"
     }, {
         "file": ["MarketAmerica-CADL136-Part1.mp3", "MarketAmerica-CADL136-Part2.mp3"],
         "category": "President and CEO JR Ridinger",
@@ -2766,20 +2584,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2191"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2177-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "nutraMetrix Updates with Brandi Murphy  ",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2177"
-    }, {
-        "file": ["MarketAmerica-UKADL2101-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Building Business Principles with Rising Field Leaders (3rd Quarter 2012)",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2101"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2010-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "Frank and Gingie Keefer Story",
@@ -2982,13 +2786,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2103"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2063-Part1.mp3"],
-        "category": "Motives",
-        "short_desc": "Leading the Beauty and Cosmetics Industry - Loren Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2063"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2077-Part1.mp3"],
         "category": "Motives",
@@ -3298,13 +3095,6 @@
         "content_lang": "ENG",
         "prd_code": "HKADL2072"
     }, {
-        "file": ["MarketHongKong-HKADL2080-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "nutraMetrix Updates with Brandi Murphy",
-        "country": "HKG",
-        "content_lang": "ENG",
-        "prd_code": "HKADL2080"
-    }, {
         "file": ["MarketHongKong-HKADL2027-Part1.mp3"],
         "category": "Audio of the Month",
         "short_desc": "JR Ridinger 2010國際年會晚宴致辭（2010年 第四季）",
@@ -3472,13 +3262,6 @@
         "country": "HKG",
         "content_lang": "CAN",
         "prd_code": "HKADL2047"
-    }, {
-        "file": ["MarketAmerica-MXADL2061-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Building Business Principles with Rising Field Leaders (3rd Quarter 2012)",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2061"
     }, {
         "file": ["MarketAmerica-MXADL2004-Part1.mp3", "MarketAmerica-MXADL2004-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -3752,12 +3535,6 @@
         "country": "SGP",
         "content_lang": "ENG",
         "prd_code": "SGADL2022"
-    }, {        "file": ["MarketSingapore-SGADL2030-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "nutraMetrix Updates with Brandi Murphy",
-        "country": "SGP",
-        "content_lang": "ENG",
-        "prd_code": "SGADL2030"
     }, {
         "file": ["MarketSingapore-SGADL2015-Part1.mp3"],
         "category": "2015 Market Singapore Annual Convention",

@@ -955,3 +955,111 @@ UnFranchise Mobile App and SHOP Mobile Updates with Steve Ashley
 MarketAmerica-ADL2294-Part1 ===
 - MarketAmerica-CADL2294-Part1
 
+2/25 pt16
+Changing the Face of the Cosmetics Industry - Loren Ridinger
+MarketAmerica-ADL192-Part1 ===
+- MarketAmerica-CADL192-Part1
+
+Leading the Beauty and Cosmetics Industry - Loren Ridinger
+MarketAmerica-ADL2057-Part1 ===
+- MarketAmerica-CADL2057-Part1
+- MarketUnitedKingdom-UKADL2063-Part1
+
+Motives Cosmetics by Loren Ridinger
+MarketAmerica-ADL2158-Part1 ===
+- MarketAmerica-CADL2158-Part1
+
+Tap Into Another Billion Dollar Industry with Loren Ridinger and Dennis
+MarketAmerica-ADL2124-Part1 ===
+- MarketAmerica-CADL2124-Part1
+
+Developing Your Motives Business: Pop-Up Shops with Loren Ridinger, La La Anthony & Christian Vazquez
+MarketAmerica-ADL2280-Part1 ===
+- MarketAmerica-CADL2280-Part1
+
+How to Host an Event with Amanda Wall
+MarketAmerica-ADL2251-Part1 ===
+- MarketAmerica-CADL2251-Part1
+
+Motives Runway Show featuring New Products with Kim Yow, Maria Checa & Motives Trainers
+MarketAmerica-ADL2279-Part1 ===
+- MarketAmerica-CADL2279-Part1
+
+Motives for La La with Shareeda Best
+MarketAmerica-ADL2253-Part1 ===
+- MarketAmerica-CADL2253-Part1
+
+Motives for Loren and La La with Loren Ridinger and La La Anthony
+MarketAmerica-ADL2319-Part1 ===
+- MarketAmerica-CADL2319-Part1
+
+New Era of Motives Begins: Motives for La La with Loren Ridinger
+MarketAmerica-ADL2198-Part1 ===
+- MarketAmerica-CADL2198-Part1
+
+Recruiting with Motives with Amanda Wall
+MarketAmerica-ADL2252-Part1 ===
+- MarketAmerica-CADL2252-Part1
+
+Up sell Brushes, Treatments and Primers with Eleanor Tuttle
+MarketAmerica-ADL2246-Part1 ===
+- MarketAmerica-CADL2246-Part1
+
+The New NPO Program: With over 1.5 Million Non-Profits in the United States; the Volume Potential is Unlimited with Kevin Buckman
+MarketAmerica-ADL2100-Part1 ===
+- MarketAmerica-CADL2100-Part1
+
+Incorporating nutraMetrix in your MA University - Brandi Murphy
+MarketAmerica-ADL2085-Part1 ===
+- MarketAmerica-CADL2085-Part1
+
+Learning from the Experts - Doctors Spotlight with Brandi Murphy
+MarketAmerica-ADL2189-Part1 ===
+- MarketAmerica-CADL2189-Part1
+
+nutraMetrix Updates with Brandi Murphy
+MarketAmerica-ADL2452-Part1 ===
+- MarketAustralia-7ADL2223-Part1
+- MarketAmerica-CADL2303-Part1
+- MarketUnitedKingdom-UKADL2177-Part1
+- MarketHongKong-HKADL2080-Part1
+- MarketSingapore-SGADL2030-Part1
+
+nutraMetrix with Brandi Murphy
+MarketAmerica-ADL2427-Part1 ===
+- MarketAustralia-7ADL2183-Part1
+
+Market Americas Fastest Growing Division: nutraMetrix with Brandi Murphy
+MarketAmerica-ADL2103-Part1 ===
+- MarketAmerica-CADL2103-Part1
+
+Building Business Principles with Rising Field Leaders
+MarketAmerica-ADL2239-Part1 ===
+- MarketAustralia-7ADL2072-Part1
+- MarketAmerica-CADL2239-Part1
+- MarketAmerica-UKADL2101-Part1
+- MarketAmerica-MXADL2061-Part1
+
+Major Events = Major Success with Jacki Blasko, Al Yentsch, Stacy Tung and Andy Docos
+MarketAmerica-ADL2274-Part1 ===
+- MarketAmerica-CADL2274-Part1
+
+Back to the Basics - Taking Market America to the World
+MarketAmerica-ADL12-Part1 ===
+- MarketAmerica-CADL12-Part1
+
+Believe the Unbelievable with JR Ridinger
+MarketAmerica-ADL2115-Part1 ===
+- MarketAmerica-CADL2115-Part1
+
+
+
+
+
+
+
+
+
+
+
+
