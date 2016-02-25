@@ -36,13 +36,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2054"
     }, {
-        "file": ["MarketAustralia-7ADL2056-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "The Impact and Importance of Tickets: The Fastest Way to Grow (2011 1st Qtr)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2056"
-    }, {
         "file": ["MarketAustralia-7ADL2064-Part1.mp3", "MarketAustralia-7ADL2064-Part2.mp3"],
         "category": "Audio of the Month",
         "short_desc": "Revolutionizing Shopping with Market America and SHOP.COM with Marc Ashley (2011 3rd Quarter)",
@@ -554,27 +547,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2070"
     }, {
-        "file": ["MarketAustralia-7ADL2079-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Big Plays with Dennis Franks",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2079"
-    }, {
-        "file": ["MarketAustralia-7ADL2132-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Pam and Tony Bowling Story",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2132"
-    }, {
-        "file": ["MarketAustralia-7ADL2075-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Right Place. The Right Time with Dennis Franks",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2075"
-    }, {
         "file": ["MarketAustralia-7ADL2085-Part1.mp3"],
         "category": "Follow-up and ABC Pattern of Building Depth",
         "short_desc": "ABC Pattern with Elizabeth Weber",
@@ -679,13 +651,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2084"
-    }, {
-        "file": ["MarketAustralia-7ADL2068-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Generation Y and Building Organizational Growth with Andrew Weissman & Jim Winkler (2011 4th Quarter)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2068"
     }, {
         "file": ["MarketAustralia-7ADL2059-Part1.mp3"],
         "category": "Audio of the Month",
@@ -925,13 +890,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL209"
     }, {
-        "file": ["MarketAmerica-CADL204-Part1.mp3"],
-        "category": "2009 World Conference",
-        "short_desc": "The Right Place at the Right Time - Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL204"
-    }, {
         "file": ["MarketAmerica-CADL197-Part1.mp3"],
         "category": "2009 World Conference",
         "short_desc": "Transitions - Dennis Franks & Lydia Martinez",
@@ -1029,13 +987,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2099"
-    }, {
-        "file": ["MarketAmerica-CADL2121-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "The Impact and Importance of Tickets",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2121"
     }, {
         "file": ["MarketAmerica-CADL2100-Part1.mp3"],
         "category": "2010 International Convention",
@@ -1184,20 +1135,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2064"
     }, {
-        "file": ["MarketAmerica-CADL2052-Part1.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "The Logic and Science of Listening - Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2052"
-    }, {
-        "file": ["MarketAmerica-CADL2071-Part1.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "The Rhythem of Success - Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2071"
-    }, {
         "file": ["MarketAmerica-CADL2066-Part1.mp3", "MarketAmerica-CADL2066-Part2.mp3"],
         "category": "2010 World Conference",
         "short_desc": "ma Cashback - Get Paid to Shop - Loren Ridinger & Marc Ashley",
@@ -1309,13 +1246,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2181"
-    }, {
-        "file": ["MarketAmerica-CADL2172-Part1.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Staying the Course with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2172"
     }, {
         "file": ["MarketAmerica-CADL2168-Part1.mp3"],
         "category": "2011 International Convention",
@@ -1681,13 +1611,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2328"
     }, {
-        "file": ["MarketAmerica-CADL2332-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Millionaires and Millionaires in the Making Panel Discussion with Jim Winkler",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2332"
-    }, {
         "file": ["MarketAmerica-CADL2323-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "Motives Runway Show with Kim Yow and Maria Checa",
@@ -1736,13 +1659,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2292"
-    }, {
-        "file": ["MarketAmerica-CADL2273-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Business Simplification Strategies and Principals with Andrew Weissman and Jim Winkler",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2273"
     }, {
         "file": ["MarketAmerica-CADL2297-Part1.mp3", "MarketAmerica-CADL2297-Part2.mp3"],
         "category": "2013 World Conference",
@@ -1841,20 +1757,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2276"
-    }, {
-        "file": ["MarketAmerica-CADL2299-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "The NEW UnFranchise.com with Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2299"
-    }, {
-        "file": ["MarketAmerica-CADL2177-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "The Right Place. The Right Time with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2177"
     }, {
         "file": ["MarketAmerica-CADL2294-Part1.mp3"],
         "category": "2013 World Conference",
@@ -2066,13 +1968,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL119"
     }, {
-        "file": ["MarketAmerica-CADL2194-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Generation Y and Building Organizational Growth with Andrew Weissman & Jim Winkler ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2194"
-    }, {
         "file": ["MarketAmerica-CADL45-Part1.mp3", "MarketAmerica-CADL45-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "Managing an Organization with JR Ridinger",
@@ -2094,54 +1989,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL20"
     }, {
-        "file": ["MarketAmerica-CADL2271-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Big Plays with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2271"
-    }, {
-        "file": ["MarketAmerica-CADL17-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Frank & Gingie Keefer Story with Frank Keefer",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL17"
-    }, {
         "file": ["MarketAmerica-CADL15-Part1.mp3", "MarketAmerica-CADL15-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "The Market America Vision: The Engine and Schematic Diagram with JR Ridinger",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL15"
-    }, {
-        "file": ["MarketAmerica-CADL13-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The No-Nonsense Approach to Success with Frank Keefer",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL13"
-    }, {
-        "file": ["MarketAmerica-CADL2343-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Pam and Tony Bowling Story",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2343"
-    }, {
-        "file": ["MarketAmerica-CADL2256-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Right Place. The Right Time with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2256"
-    }, {
-        "file": ["MarketAmerica-CADL110-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Why Market America is the Most Proven Opportunity Ever",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL110"
     }, {
         "file": ["MarketAmerica-CADL43-Part1.mp3"],
         "category": "Follow-up and ABC Pattern of Building Depth",
@@ -2353,13 +2206,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2258"
     }, {
-        "file": ["MarketAmerica-CADL51-Part1.mp3", "MarketAmerica-CADL51-Part2.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "The Basic 5 with Dream Team (part 1 & 2)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL51"
-    }, {
         "file": ["MarketAmerica-CADL2117-Part1.mp3"],
         "category": "Motives Audio Curriculum",
         "short_desc": "The Only Shortcut to Success: Building from Event to Event w/ Elizabeth Weber & Frank Keefer",
@@ -2444,13 +2290,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2254"
     }, {
-        "file": ["MarketAmerica-CADL2185-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "Seven No-Nos for Building Your Business with Jim Winkler and Amber Yang",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2185"
-    }, {
         "file": ["MarketAmerica-CADL2199-Part1.mp3"],
         "category": "Motives Audio Curriculum",
         "short_desc": "Simple Strategies for Retailing and Recruiting with Dennis Franks  ",
@@ -2464,13 +2303,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2209"
-    }, {
-        "file": ["MarketAmerica-CADL200-Part1.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "UnFranchise Daily Goals and Tasks - Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL200"
     }, {
         "file": ["MarketAmerica-CADL2246-Part1.mp3"],
         "category": "Motives Audio Curriculum",
@@ -3235,13 +3067,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2005"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2140-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Pam and Tony Bowling Story",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2140"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2022-Part1.mp3"],
         "category": "General",
         "short_desc": "Dare to Dream with MA  ",
@@ -3382,20 +3207,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2058"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2067-Part1.mp3"],
-        "category": "General",
-        "short_desc": "The Logic and Science of Listening - Andrew Weissman: The Logic and Science of Listening",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2067"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2068-Part1.mp3"],
-        "category": "General",
-        "short_desc": "The Rhythem of Success - Loren Ridinger: The Rhythm of Success ",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2068"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2060-Part1.mp3", "MarketUnitedKingdom-UKADL2060-Part2.mp3"],
         "category": "General",
         "short_desc": "The Ultimate Online Shopping Destination - Loren Ridinger and Marc Ashley",
@@ -3416,13 +3227,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2016"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2014-Part1.mp3"],
-        "category": "General",
-        "short_desc": "Why Market America is the Most Proven Opportunity Ever",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2014"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2053-Part1.mp3"],
         "category": "General",
@@ -3668,13 +3472,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2059"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2013-Part1.mp3"],
-        "category": "UFO",
-        "short_desc": "The Unfranchise&reg; Business Opportunity.",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2013"
     }, {
         "file": ["MarketHongKong-HKADL2002-Part1.mp3"],
         "category": "2009",
@@ -3977,27 +3774,6 @@
         "content_lang": "ENG",
         "prd_code": "MXADL2022"
     }, {
-        "file": ["MarketAmerica-MXADL2015-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Seven No-Nos for Building Your Business with Jim Winkler and Amber Yang",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2015"
-    }, {
-        "file": ["MarketAmerica-MXADL2013-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Staying the Course with Dennis Franks",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2013"
-    }, {
-        "file": ["MarketAmerica-MXADL2081-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "The Pam and Tony Bowling Story",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2081"
-    }, {
         "file": ["MarketAmerica-MXADL2078-Part1.mp3"],
         "category": "General",
         "short_desc": "2012 World Conference - Eva Longoria",
@@ -4116,13 +3892,6 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2029"
-    }, {
-        "file": ["MarketAmerica-MXADL2021-Part1.mp3"],
-        "category": "Goals",
-        "short_desc": "UnFranchise Daily Goals and Tasks - Andrew Weissman",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2021"
     }, {
         "file": ["MarketAmerica-MXADL2007-Part1.mp3"],
         "category": "Goals",

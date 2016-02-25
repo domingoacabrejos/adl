@@ -697,5 +697,101 @@ Take Control by Increasing Your Quality Time
 MarketAmerica-ADL2007-Part1 ===
 - MarketAmerica-CADL2009-Part1
 
+2/25 pt13
+The Basic 5 with Dream Team (part 1 & 2)
+MarketAmerica-ADL51-Part1 ===
+- MarketAmerica-CADL51-Part1
+
+The Frank & Gingie Keefer Story with Frank Keefer
+MarketAmerica-ADL17-Part1 ===
+- MarketAmerica-CADL17-Part1
+
+The Impact and Importance of Tickets
+MarketAmerica-ADL2121-Part1 ===
+- MarketAustralia-7ADL2056-Part1
+- MarketAmerica-CADL2121-Part1
+
+The Logic and Science of Listening - Andrew Weissman
+MarketAmerica-ADL2052-Part1 ===
+- MarketAmerica-CADL2052-Part1
+- MarketUnitedKingdom-UKADL2067-Part1
+
+The No-Nonsense Approach to Success with Frank Keefer
+MarketAmerica-ADL13-Part1 ===
+- MarketAmerica-CADL13-Part1
+
+he Rhythem of Success - Loren Ridinger
+MarketAmerica-ADL2071-Part1 ===
+- MarketAmerica-CADL2071-Part1
+- MarketUnitedKingdom-UKADL2068-Part1
+
+The Right Place at the Right Time - Elizabeth Weber
+MarketAmerica-ADL204-Part1 ===
+- MarketAmerica-CADL204-Part1
+
+The Unfranchise&reg; Business Opportunity
+MarketAmerica-ADL119-Part1 ===
+- MarketUnitedKingdom-UKADL2013-Part1
+
+UnFranchise Daily Goals and Tasks - Andrew Weissman
+MarketAmerica-ADL200-Part1 ===
+- MarketAmerica-CADL200-Part1
+- MarketAmerica-MXADL2021-Part1
+
+Why Market America is the Most Proven Opportunity Ever
+MarketAmerica-ADL110-Part1 ===
+- MarketAmerica-CADL110-Part1
+- MarketUnitedKingdom-UKADL2014-Part1
+
+Business Simplification Strategies and Principals with Andrew Weissman and Jim Winkler
+MarketAmerica-ADL2273-Part1 ===
+- MarketAmerica-CADL2273-Part1
+
+Generation Y and Building Organizational Growth with Andrew Weissman & Jim Winkler
+MarketAmerica-ADL2194-Part1 ===
+- MarketAustralia-7ADL2068-Part1
+- MarketAmerica-CADL2194-Part1
+
+Millionaires and Millionaires in the Making Panel Discussion with Jim Winkler
+MarketAmerica-ADL2332-Part1 ===
+- MarketAmerica-CADL2332-Part1
+
+Seven No-Nos for Building Your Business with Jim Winkler and Amber Yang
+MarketAmerica-ADL2185-Part1 ===
+- MarketAmerica-CADL2185-Part1
+- MarketAmerica-MXADL2015-Part1
+
+Staying the Course with Dennis Franks
+MarketAmerica-ADL2172-Part1 ===
+- MarketAmerica-CADL2172-Part1
+- MarketAmerica-MXADL2013-Part1
+
+The Big Plays with Dennis Franks
+MarketAmerica-ADL2271-Part1 ===
+- MarketAustralia-7ADL2079-Part1
+- MarketAmerica-CADL2271-Part1
+
+The NEW UnFranchise.com with Jeremy Fennema
+MarketAmerica-ADL2299-Part1 ===
+- MarketAmerica-CADL2299-Part1
+
+The Pam and Tony Bowling Story
+MarketAmerica-ADL2343-Part1 ===
+- MarketAustralia-7ADL2132-Part1
+- MarketAmerica-CADL2343-Part1
+- MarketUnitedKingdom-UKADL2140-Part1
+- MarketAmerica-MXADL2081-Part1
+
+The Right Place. The Right Time with Dennis Franks
+MarketAmerica-ADL2272-Part1 ===
+- MarketAmerica-CADL2177-Part1
+
+The Right Place. The Right Time with Dennis Franks
+MarketAmerica-ADL2256-Part1 ===
+- MarketAustralia-7ADL2075-Part1
+- MarketAmerica-CADL2256-Part1
+
+
+
 
 
