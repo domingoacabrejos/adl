@@ -1052,10 +1052,81 @@ Believe the Unbelievable with JR Ridinger
 MarketAmerica-ADL2115-Part1 ===
 - MarketAmerica-CADL2115-Part1
 
+2/25 pt17
+Building the Business: Merging the Old with the New with JR Ridinger
+MarketAmerica-ADL2114-Part1 ===
+- MarketAustralia-7ADL2034-Part1
+- MarketAmerica-CADL2114-Part1
 
+Built on Product. Powered by People (2 parts) JR Ridinger
+MarketAmerica-ADL136-Part1 ===
+- MarketAmerica-CADL136-Part1
 
+Built on Product. Powered by People with JR Ridinger (part 1 & 2)
+MarketAmerica-ADL168-Part1 ===
+- MarketAmerica-CADL168-Part1
 
+Creating More Duplication and Success - JR Ridinger
+MarketAmerica-ADL2062-Part1 ===
+- MarketAmerica-CADL2062-Part1
 
+Creating the Economy of the Future with JR Ridinger (part 1 & 2)
+MarketAmerica-ADL187-Part1 ===
+- MarketAmerica-CADL187-Part1
+
+Dare to Dream - Featuring: JR Ridinger - 2 parts - Part 1 (0:47:31 and Part 2 (0:44:50)
+MarketAmerica-ADL102-Part1 ===
+- MarketAmerica-CADL102-Part1
+
+Dare to Dream w/ JR Ridinger (2 parts)
+MarketAmerica-ADL48-Part1 ===
+- MarketAmerica-CADL48-Part1
+
+Get in the Wheelbarrow with JR Ridinger
+MarketAmerica-ADL9-Part1 ===
+- MarketAmerica-CADL9-Part1
+
+JR Ridinger Gala Address - President & CEO JR Ridinger
+MarketAmerica-ADL2122-Part1 ===
+- MarketAmerica-CADL2122-Part1
+
+James Ridinger 2012 International Convention Gala Address
+MarketAmerica-ADL2126-Part1 ===
+- MarketAmerica-CADL2126-Part1
+
+Keep Growing with JR Ridinger
+MarketAmerica-ADL10-Part1 ===
+- MarketAmerica-CADL10-Part1
+
+Looking for Paradise: A Web Portal, and Opportunity, and the Power of People - JR Ridinger
+MarketAmerica-ADL2070-Part1 ===
+- MarketAmerica-CADL2070-Part1
+
+Making Dreams Come True with Market America featuring JR Ridinger
+MarketAmerica-ADL7-Part1 ===
+- MarketAmerica-CADL7-Part1
+
+Making Your Magic Moment with JR Ridinger
+MarketAmerica-ADL6-Part1 ===
+- MarketAmerica-CADL6-Part1
+
+Managing an Organization with JR Ridinger
+MarketAmerica-ADL45-Part1 ===
+- MarketAmerica-CADL45-Part1
+- MarketUnitedKingdom-UKADL2018-Part1
+
+Market America Vision with JR Ridinger
+MarketUnitedKingdom-UKADL2011-Part1 ===
+- MarketUnitedKingdom-UKADL2034-Part1
+
+Market America Vision with JR Ridinger
+MarketAmerica-ADL53-Part1 ===
+- MarketAustralia-7ADL2004-Part1
+- MarketAmerica-CADL53-Part1
+
+Market America is Everything
+MarketAmerica-ADL2016-Part1 ===
+- MarketAmerica-CADL2018-Part1
 
 
 

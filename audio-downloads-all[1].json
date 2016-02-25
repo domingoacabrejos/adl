@@ -484,13 +484,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2038"
     }, {
-        "file": ["MarketAustralia-7ADL2034-Part1.mp3", "MarketAustralia-7ADL2034-Part2.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Building the Business: Merging the Old with the New with JR Ridinger (3rd Qtr 2010)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2034"
-    }, {
         "file": ["MarketAustralia-7ADL2039-Part1.mp3"],
         "category": "Audio of the Month",
         "short_desc": "Get On the Fast Track with ma's Top Money Earners with Arlene Lowy & Jim Winkler (3rd Qtr 2010)",
@@ -553,13 +546,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2060"
-    }, {
-        "file": ["MarketAustralia-7ADL2004-Part1.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Market America Vision with JR Ridinger",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2004"
     }, {
         "file": ["MarketAustralia-7ADL2002-Part1.mp3", "MarketAustralia-7ADL2002-Part2.mp3"],
         "category": "President and CEO JR Ridinger",
@@ -686,13 +672,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2017"
-    }, {
-        "file": ["MarketAmerica-CADL2018-Part1.mp3", "MarketAmerica-CADL2018-Part2.mp3", "MarketAmerica-CADL2018-Part3.mp3"],
-        "category": "2009 International Convention",
-        "short_desc": "Market America is Everything",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2018"
     }, {
         "file": ["MarketAmerica-CADL2005-Part1.mp3"],
         "category": "2009 International Convention",
@@ -862,13 +841,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2109"
     }, {
-        "file": ["MarketAmerica-CADL2114-Part1.mp3", "MarketAmerica-CADL2114-Part2.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Building the Business: Merging the Old with the New with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2114"
-    }, {
         "file": ["MarketAmerica-CADL2106-Part1.mp3"],
         "category": "2010 International Convention",
         "short_desc": "Earn Thousands in Retail Profit Businesses Need Websites: ma WebCenter with Jeremy Fennema",
@@ -882,13 +854,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2107"
-    }, {
-        "file": ["MarketAmerica-CADL2122-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "JR Ridinger Gala Address - President & CEO JR Ridinger ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2122"
     }, {
         "file": ["MarketAmerica-CADL2111-Part1.mp3", "MarketAmerica-CADL2111-Part2.mp3"],
         "category": "2010 International Convention",
@@ -960,26 +925,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2054"
     }, {
-        "file": ["MarketAmerica-CADL2062-Part1.mp3", "MarketAmerica-CADL2062-Part2.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "Creating More Duplication and Success - JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2062"
-    }, {
         "file": ["MarketAmerica-CADL2055-Part1.mp3"],
         "category": "2010 World Conference",
         "short_desc": "Live a Healthier Lifestyle with Transitions - Dennis Franks & Lydia Martinez",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2055"
-    }, {
-        "file": ["MarketAmerica-CADL2070-Part1.mp3", "MarketAmerica-CADL2070-Part2.mp3", "MarketAmerica-CADL2070-Part3.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "Looking for Paradise: A Web Portal, and Opportunity, and the Power of People - JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2070"
     }, {
         "file": ["MarketAmerica-CADL2058-Part1.mp3"],
         "category": "2010 World Conference",
@@ -1723,13 +1674,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL119"
     }, {
-        "file": ["MarketAmerica-CADL45-Part1.mp3", "MarketAmerica-CADL45-Part2.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Managing an Organization with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL45"
-    }, {
         "file": ["MarketAmerica-CADL8-Part1.mp3", "MarketAmerica-CADL8-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "Power of Identity - Harnessing Emotions/Programming Yourself with JR Ridinger (part 1 & 2)",
@@ -1926,89 +1870,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2092"
     }, {
-        "file": ["MarketAmerica-CADL136-Part1.mp3", "MarketAmerica-CADL136-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Built on Product. Powered by People (2 parts) JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL136"
-    }, {
-        "file": ["MarketAmerica-CADL168-Part1.mp3", "MarketAmerica-CADL168-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Built on Product. Powered by People with JR Ridinger (part 1 & 2)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL168"
-    }, {
-        "file": ["MarketAmerica-CADL187-Part1.mp3", "MarketAmerica-CADL187-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Creating the Economy of the Future with JR Ridinger (part 1 & 2)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL187"
-    }, {
-        "file": ["MarketAmerica-CADL102-Part1.mp3", "MarketAmerica-CADL102-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Dare to Dream - Featuring: JR Ridinger - 2 parts - Part 1 (0:47:31 and Part 2 (0:44:50)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL102"
-    }, {
-        "file": ["MarketAmerica-CADL48-Part1.mp3", "MarketAmerica-CADL48-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Dare to Dream w/ JR Ridinger (2 parts) ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL48"
-    }, {
-        "file": ["MarketAmerica-CADL9-Part1.mp3", "MarketAmerica-CADL9-Part2.mp3", "MarketAmerica-CADL9-Part3.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Get in the Wheelbarrow with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL9"
-    }, {
         "file": ["MarketAmerica-CADL2162-Part1.mp3", "MarketAmerica-CADL2162-Part2.mp3"],
         "category": "President and CEO JR Ridinger",
         "short_desc": "JR Ridinger - 2011 Blitz Tour - Lancaster, PA",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2162"
-    }, {
-        "file": ["MarketAmerica-CADL2126-Part1.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "James Ridinger 2012 International Convention Gala Address",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2126"
-    }, {
-        "file": ["MarketAmerica-CADL10-Part1.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Keep Growing with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL10"
-    }, {
-        "file": ["MarketAmerica-CADL7-Part1.mp3", "MarketAmerica-CADL7-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Making Dreams Come True with Market America featuring JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL7"
-    }, {
-        "file": ["MarketAmerica-CADL6-Part1.mp3", "MarketAmerica-CADL6-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Making Your Magic Moment with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL6"
-    }, {
-        "file": ["MarketAmerica-CADL53-Part1.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Market America Vision with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL53"
     }, {
         "file": ["MarketAmerica-CADL2193-Part1.mp3", "MarketAmerica-CADL2193-Part2.mp3"],
         "category": "President and CEO JR Ridinger",
@@ -2864,13 +2731,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2039"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2018-Part1.mp3", "MarketUnitedKingdom-UKADL2018-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Managing an Organization with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2018"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2062-Part1.mp3", "MarketUnitedKingdom-UKADL2062-Part2.mp3"],
         "category": "President and CEO",
         "short_desc": "Managing and Organization - JR Ridinger",
@@ -2884,13 +2744,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2011"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2034-Part1.mp3", "MarketUnitedKingdom-UKADL2034-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Market America Vision with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2034"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2081-Part1.mp3", "MarketUnitedKingdom-UKADL2081-Part2.mp3"],
         "category": "President and CEO",
