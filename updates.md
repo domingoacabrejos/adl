@@ -791,7 +791,135 @@ MarketAmerica-ADL2256-Part1 ===
 - MarketAustralia-7ADL2075-Part1
 - MarketAmerica-CADL2256-Part1
 
+2/25 pt14
+Follow Up & the ABCs of the Marketing Plan with JR Ridinger
+MarketAmerica-ADL43-Part1 ===
+- MarketAmerica-CADL43-Part1
 
+NMTSS - The Art of Selling Tickets with JR Ridinger
+MarketAmerica-ADL44-Part1 ===
+- MarketAmerica-CADL44-Part1
 
+Business Building Strategies with Dennis Franks and Jim Winkler
+MarketAmerica-ADL2292-Part1 ===
+- MarketAmerica-CADL2292-Part1
+
+The ABC Pattern with Elizabeth Weber
+MarketAmerica-ADL2269-Part1 ===
+- MarketAmerica-CADL2269-Part1
+
+Global Unified MPCP with JR Ridinger
+MarketAmerica-ADL2340-Part1 ===
+- MarketAmerica-CADL2340-Part1
+- MarketUnitedKingdom-UKADL2124-Part1
+
+Global.SHOP.COM, EMP and Asian Unification with Marc Ashley
+MarketAmerica-ADL2328-Part1 ===
+- MarketAmerica-CADL2328-Part1
+
+Global.SHOP.com and Emerging Markets Program with Marc Ashley
+MarketAmerica-ADL2284-Part1 ===
+- MarketAmerica-CADL2284-Part1
+
+Destination Success - Implementing Your Plan of Action with Dennis Franks
+MarketAmerica-ADL5-Part1 ===
+- MarketAmerica-CADL5-Part1
+
+Building a Winning Team with Amber Yang
+MarketAmerica-ADL2266-Part1 ===
+- MarketAustralia-7ADL2082-Part1
+- MarketAmerica-CADL2266-Part1
+
+Role of Leadership with Dennis Franks
+MarketAmerica-ADL2196-Part1 ===
+- MarketAustralia-7ADL2070-Part1
+- MarketAmerica-CADL2196-Part1
+
+Rotational Business Building with Andy Docos
+MarketAmerica-ADL2265-Part1 ===
+- MarketAustralia-7ADL2081-Part1
+- MarketAmerica-CADL2265-Part1
+
+Take it to the Limits with Dennis Franks
+MarketAmerica-ADL2270-Part1 ===
+- MarketAustralia-7ADL2086-Part1
+- MarketAmerica-CADL2270-Part1
+
+Anti-Aging Products
+MarketAmerica-ADL77-Part1 ===
+MarketAmerica-ADL158-Part1 ===
+MarketAmerica-ADL142-Part1 ===
+- MarketAmerica-CADL77-Part1
+- MarketAmerica-CADL158-Part1
+- MarketAmerica-CADL142-Part1
+
+Cognitive System product
+MarketAmerica-ADL75-Part1 ===
+- MarketAmerica-CADL75-Part1
+
+Head Comfort product
+MarketAmerica-ADL76-Part1 ===
+- MarketAmerica-CADL76-Part1
+
+Isotonix OPC-3 with Pycnogenol - Dr. Steven Lamm
+MarketAmerica-ADL2072-Part1 ===
+- MarketAmerica-CADL2063-Part1
+- MarketUnitedKingdom-UKADL2065-Part1
+
+Isotonix OPC-3
+MarketAmerica-ADL140-Part1 ===
+- MarketAmerica-CADL140-Part1.mp3
+
+Mochatonix
+MarketAmerica-ADL88-Part1 ===
+- MarketAmerica-CADL88-Part1
+
+NutriClean Product Training
+MarketAmerica-ADL70-Part1 ===
+- MarketAmerica-CADL70-Part1
+
+Prime Family of Products
+MarketAmerica-ADL84-Part1 ===
+- MarketAmerica-CADL84-Part1
+
+Build on the Newest Products with Tanya Smith
+MarketAmerica-ADL2205-Part1 ===
+- MarketAmerica-CADL2205-Part1
+
+Prime Astaxanthin and Visual Vitality with Dr. Perry Krichmar
+MarketAmerica-ADL2242-Part1 ===
+- MarketAmerica-CADL2242-Part1
+
+Pycnogenol: A Key Ingredient in Isotonix Champion Blend Plus with Dr. Steven Lamm
+MarketAmerica-ADL2282-Part1 ===
+- MarketAmerica-CADL2282-Part1
+
+2012 World Conference - Gloria and Emilio Estefan
+MarketAmerica-ADL2312-Part1 ===
+- MarketAmerica-MXADL2077-Part1
+
+Cellular Laboratories
+MarketAmerica-ADL2309-Part1 ===
+- MarketAmerica-MXADL2074-Part1
+
+MX.SHOP.COM
+MarketAmerica-ADL2301-Part1 ===
+- MarketAmerica-MXADL2066-Part1
+
+Market America In The News - 2012 World Conference - Planeta Gente
+MarketAmerica-ADL2310-Part1 ===
+- MarketAmerica-MXADL2075-Part1
+
+Market America In the News - 2012 World Conference - CNNE - NotiMujer
+MarketAmerica-ADL2311-Part1 ===
+- MarketAmerica-MXADL2076-Part1
+
+Market America Mexico Launch Promo with Eva Longoria
+MarketAmerica-ADL2305-Part1 ===
+- MarketAmerica-MXADL2070-Part1
+
+Market America Mexico Overview
+MarketAmerica-ADL2304-Part1 ===
+- MarketAmerica-MXADL2069-Part1
 
 
