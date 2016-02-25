@@ -379,13 +379,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2215"
     }, {
-        "file": ["MarketAustralia-7ADL2216-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Enhancements and Resources with Sarah Rose Stack, Jeremy Fennema and Chris Peddycord  ",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2216"
-    }, {
         "file": ["MarketAustralia-7ADL2223-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "nutraMetrix Updates with Brandi Murphy  ",
@@ -539,13 +532,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2027"
-    }, {
-        "file": ["MarketAustralia-7ADL2008-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Learning to Talk in Themes with Andrew Weissman",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2008"
     }, {
         "file": ["MarketAustralia-7ADL2007-Part1.mp3", "MarketAustralia-7ADL2007-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -812,13 +798,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2005"
-    }, {
-        "file": ["MarketAmerica-CADL2009-Part1.mp3"],
-        "category": "2009 International Convention",
-        "short_desc": "Take Control by Increasing Your Quality Time",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2009"
     }, {
         "file": ["MarketAmerica-CADL2013-Part1.mp3"],
         "category": "2009 International Convention",
@@ -1197,13 +1176,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2068"
-    }, {
-        "file": ["MarketAmerica-CADL2061-Part1.mp3"],
-        "category": "2010 World Conference",
-        "short_desc": "Take Control and Lead by Example - Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2061"
     }, {
         "file": ["MarketAmerica-CADL2064-Part1.mp3"],
         "category": "2010 World Conference",
@@ -1926,13 +1898,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2233"
     }, {
-        "file": ["MarketAmerica-CADL2255-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Enhancements and Resources with Sarah Rose Stack, Jeremy Fennema and Chris Peddycord  ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2255"
-    }, {
         "file": ["MarketAmerica-CADL2379-Part1.mp3"],
         "category": "Chinese Boot Camp 2014",
         "short_desc": "",
@@ -2094,34 +2059,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2083"
     }, {
-        "file": ["MarketAmerica-CADL113-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Hear Why MLM Doesn't Work & MA Does - Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL113"
-    }, {
-        "file": ["MarketAmerica-CADL23-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "It's Only a Matter of Time with Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL23"
-    }, {
-        "file": ["MarketAmerica-CADL25-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Learning to Talk in Themes with Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL25"
-    }, {
-        "file": ["MarketAmerica-CADL39-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Overcoming Objections with Frank Keefer",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL39"
-    }, {
         "file": ["MarketAmerica-CADL119-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "The Unfranchise Business Opportunity",
@@ -2135,20 +2072,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2194"
-    }, {
-        "file": ["MarketAmerica-CADL118-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "How Market America Has Changed Their Lives",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL118"
-    }, {
-        "file": ["MarketAmerica-CADL153-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Leadership School 2008 - Leading by Example with Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL153"
     }, {
         "file": ["MarketAmerica-CADL45-Part1.mp3", "MarketAmerica-CADL45-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -2170,13 +2093,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL20"
-    }, {
-        "file": ["MarketAmerica-CADL19-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Success Happens",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL19"
     }, {
         "file": ["MarketAmerica-CADL2271-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -3277,13 +3193,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2191"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2170-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Enhancements and Resources with Sarah Rose Stack, Jeremy Fennema and Chris Peddycord  ",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2170"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2177-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "nutraMetrix Updates with Brandi Murphy  ",
@@ -3318,13 +3227,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2017"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2009-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Success Happens",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2009"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2005-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -3451,13 +3353,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2065"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2019-Part1.mp3"],
-        "category": "General",
-        "short_desc": "Overcoming Objections with Frank Keefer",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2019"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2057-Part1.mp3"],
         "category": "General",
@@ -3872,13 +3767,6 @@
         "content_lang": "ENG",
         "prd_code": "HKADL2072"
     }, {
-        "file": ["MarketHongKong-HKADL2073-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Enhancements and Resources with Sarah Rose Stack, Jeremy Fennema and Chris Peddycord  ",
-        "country": "HKG",
-        "content_lang": "ENG",
-        "prd_code": "HKADL2073"
-    }, {
         "file": ["MarketHongKong-HKADL2080-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "nutraMetrix Updates with Brandi Murphy",
@@ -4082,13 +3970,6 @@
         "content_lang": "ENG",
         "prd_code": "MXADL2027"
     }, {
-        "file": ["MarketAmerica-MXADL2016-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Learning to Talk In Themes With Andrew Weissman",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2016"
-    }, {
         "file": ["MarketAmerica-MXADL2022-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "Result Producing Activities - Andrew Weissman",
@@ -4228,13 +4109,6 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2006"
-    }, {
-        "file": ["MarketAmerica-MXADL2028-Part1.mp3"],
-        "category": "Goals",
-        "short_desc": "Overcoming Objections with Frank Keefer ",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2028"
     }, {
         "file": ["MarketAmerica-MXADL2029-Part1.mp3"],
         "category": "Goals",
@@ -4745,13 +4619,6 @@
         "country": "TWN",
         "content_lang": "ENG",
         "prd_code": "TADL2120"
-    }, {
-        "file": ["MarketTaiwan-TADL2121-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Shopping Annuity Enhancements and Resources with Sarah Rose Stack, Jeremy Fennema and Chris Peddycord  ",
-        "country": "TWN",
-        "content_lang": "ENG",
-        "prd_code": "TADL2121"
     }, {
         "file": ["MarketTaiwan-TADL2096-Part1.mp3"],
         "category": "Call Workshops",

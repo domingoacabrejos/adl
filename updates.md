@@ -647,7 +647,55 @@ Get with the Program with Frank Keefer
 MarketAmerica-ADL103-Part1 ===
 - MarketAmerica-CADL103-Part1
 
+2/25 pt12
+Hear Why MLM Doesn't Work & MA Does - Dennis Franks
+MarketAmerica-ADL113-Part1 ===
+- MarketAmerica-CADL113-Part1
 
+How Market America Has Changed Their Lives
+MarketAmerica-ADL118-Part1 ===
+- MarketAmerica-CADL118-Part1
+
+It's Only a Matter of Time with Elizabeth Weber
+MarketAmerica-ADL23-Part1 ===
+- MarketAmerica-CADL23-Part1
+
+Leadership School 2008 - Leading by Example with Elizabeth Weber
+MarketAmerica-ADL153-Part1 ===
+- MarketAmerica-CADL153-Part1
+
+Learning to Talk in Themes with Andrew Weissman
+MarketAmerica-ADL25-Part1 ===
+- MarketAustralia-7ADL2008-Part1
+- MarketAmerica-CADL25-Part1
+- MarketAmerica-MXADL2016-Part1
+
+Overcoming Objections with Frank Keefer
+MarketAmerica-ADL39-Part1 ===
+- MarketAmerica-CADL39-Part1
+- MarketUnitedKingdom-UKADL2019-Part1
+- MarketAmerica-MXADL2028-Part1
+
+Success Happens
+MarketAmerica-ADL19-Part1 ===
+- MarketAmerica-CADL19-Part1
+- MarketUnitedKingdom-UKADL2009-Part1
+
+Shopping Annuity Enhancements and Resources
+MarketAmerica-ADL2445-Part1 ===
+- MarketAustralia-7ADL2216-Part1
+- MarketAmerica-CADL2255-Part1
+- MarketUnitedKingdom-UKADL2170-Part1
+- MarketHongKong-HKADL2073-Part1
+- MarketTaiwan-TADL2121-Part1
+
+Take Control and Lead by Example - Elizabeth Weber
+MarketAmerica-ADL2061-Part1 ===
+- MarketAmerica-CADL2061-Part1
+
+Take Control by Increasing Your Quality Time
+MarketAmerica-ADL2007-Part1 ===
+- MarketAmerica-CADL2009-Part1
 
 
 
