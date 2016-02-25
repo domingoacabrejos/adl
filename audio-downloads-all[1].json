@@ -575,13 +575,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2060"
     }, {
-        "file": ["MarketAustralia-7ADL2077-Part1.mp3"],
-        "category": "Motives",
-        "short_desc": "Motives by Loren Ridinger with Lisa Martin",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2077"
-    }, {
         "file": ["MarketAustralia-7ADL2004-Part1.mp3"],
         "category": "President and CEO JR Ridinger",
         "short_desc": "Market America Vision with JR Ridinger",
@@ -707,13 +700,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2057"
-    }, {
-        "file": ["MarketAmerica-CADL2002-Part1.mp3"],
-        "category": "2009 International Convention",
-        "short_desc": "Building Your Business Through the ma University & the UFO Program",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2002"
     }, {
         "file": ["MarketAmerica-CADL2017-Part1.mp3"],
         "category": "2009 International Convention",
@@ -1471,13 +1457,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2227"
     }, {
-        "file": ["MarketAmerica-CADL2207-Part1.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "Capitalizing On the Latest Mobile Technology with Steve Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2207"
-    }, {
         "file": ["MarketAmerica-CADL2208-Part1.mp3"],
         "category": "2012 ma World Conference",
         "short_desc": "Cutting-Edge Advancements: Market America/SHOP.COM Part 1 with Marc Ashley",
@@ -1632,26 +1611,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2274"
     }, {
-        "file": ["MarketAmerica-CADL2288-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "MeetON.com with Marc Ashley and Anthony Akers",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2288"
-    }, {
         "file": ["MarketAmerica-CADL2279-Part1.mp3"],
         "category": "2013 World Conference",
         "short_desc": "Motives Runway Show featuring New Products with Kim Yow, Maria Checa & Motives Trainers",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2279"
-    }, {
-        "file": ["MarketAmerica-CADL2296-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "NEW Developments and Advancements - SHOP.COM with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2296"
     }, {
         "file": ["MarketAmerica-CADL2281-Part1.mp3"],
         "category": "2013 World Conference",
@@ -1673,13 +1638,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2276"
-    }, {
-        "file": ["MarketAmerica-CADL2294-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "UnFranchise Mobile App and SHOP Mobile Updates with Steve Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2294"
     }, {
         "file": ["MarketAmerica-CADL2295-Part1.mp3"],
         "category": "2013 World Conference",
@@ -1995,13 +1953,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2085"
-    }, {
-        "file": ["MarketAmerica-CADL2258-Part1.mp3"],
-        "category": "Motives",
-        "short_desc": "Motives by Loren Ridinger with Lisa Martin",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2258"
     }, {
         "file": ["MarketAmerica-CADL2117-Part1.mp3"],
         "category": "Motives Audio Curriculum",
@@ -3641,13 +3592,6 @@
         "content_lang": "ENG",
         "prd_code": "MXADL2007"
     }, {
-        "file": ["MarketAmerica-MXADL2073-Part1.mp3"],
-        "category": "Motives",
-        "short_desc": "Market America Mexico - Motives by Loren Ridinger",
-        "country": "MEX",
-        "content_lang": "SPA",
-        "prd_code": "MXADL2073"
-    }, {
         "file": ["MarketAmerica-MXADL2067-Part1.mp3"],
         "category": "Motives",
         "short_desc": "Motives_ Luz Stella - Invitaci&oacute;n al Negocio de la Cosmetica",
@@ -3753,13 +3697,6 @@
         "content_lang": "ENG",
         "prd_code": "MXADL2017"
     }, {
-        "file": ["MarketAmerica-MXADL2065-Part1.mp3"],
-        "category": "Shop.com",
-        "short_desc": "Obtenga Reembolsos en Efectivo en Shop.com",
-        "country": "MEX",
-        "content_lang": "SPA",
-        "prd_code": "MXADL2065"
-    }, {
         "file": ["MarketAmerica-MXADL2048-Part1.mp3", "MarketAmerica-MXADL2048-Part2.mp3"],
         "category": "Social Media",
         "short_desc": "Networking with Social Media Home Shopping Parties with Loren Ridinger and Steve Ashley",
@@ -3773,13 +3710,6 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2046"
-    }, {
-        "file": ["MarketAmerica-MXADL2044-Part1.mp3"],
-        "category": "Technology",
-        "short_desc": "Capitalizing On the Latest Mobile Technology with Steve Ashley",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2044"
     }, {
         "file": ["MarketAmerica-MXADL2045-Part1.mp3"],
         "category": "Technology",

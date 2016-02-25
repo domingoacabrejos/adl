@@ -922,4 +922,36 @@ Market America Mexico Overview
 MarketAmerica-ADL2304-Part1 ===
 - MarketAmerica-MXADL2069-Part1
 
+2/25 pt15
+
+Motives by Loren Ridinger with Lisa Martin
+MarketAmerica-ADL2258-Part1 ===
+- MarketAustralia-7ADL2077-Part1
+- MarketAmerica-CADL2258-Part1
+- MarketAmerica-MXADL2073-Part1
+
+Obtenga Reembolsos en Efectivo en Shop.com
+MarketAmerica-ADL2300-Part1 ===
+- MarketAmerica-MXADL2065-Part1
+
+Building Your Business Through the ma University & the UFO Program
+MarketAmerica-ADL2000-Part1 ===
+- MarketAmerica-CADL2002-Part1
+
+MeetON.com with Marc Ashley and Anthony Akers
+MarketAmerica-ADL2288-Part1 ===
+- MarketAmerica-CADL2288-Part1
+
+Capitalizing On the Latest Mobile Technology with Steve Ashley
+MarketAmerica-ADL2207-Part1 ===
+- MarketAmerica-CADL2207-Part1
+- MarketAmerica-MXADL2044-Part1
+
+NEW Developments and Advancements - SHOP.COM with Marc Ashley
+MarketAmerica-ADL2296-Part1 ===
+- MarketAmerica-CADL2296-Part1
+
+UnFranchise Mobile App and SHOP Mobile Updates with Steve Ashley
+MarketAmerica-ADL2294-Part1 ===
+- MarketAmerica-CADL2294-Part1
 
