@@ -351,13 +351,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2149"
     }, {
-        "file": ["MarketAustralia-7ADL2237-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Leading by Example with Fat Joe  ",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2237"
-    }, {
         "file": ["MarketAustralia-7ADL2215-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "Shopping Annuity Ambassadors with Elizabeth Weber and Field Leaders  ",
@@ -581,13 +574,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2050"
-    }, {
-        "file": ["MarketAustralia-7ADL2076-Part1.mp3"],
-        "category": "WebCenters",
-        "short_desc": "ma WebCenters with Sarah Rose Stack",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2076"
     }, {
         "file": ["MarketAustralia-7ADL2057-Part1.mp3"],
         "category": "Audio of the Month",
@@ -1660,40 +1646,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2257"
     }, {
-        "file": ["MarketAmerica-CADL54-Part1.mp3", "MarketAmerica-CADL54-Part2.mp3"],
-        "category": "WebPortal",
-        "short_desc": "One-to-One Residual income Engine Roundtable w/Marc Ashley, Dennis Franks, Kevin Buckman and others",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL54"
-    }, {
         "file": ["MarketAmerica-CADL2091-Part1.mp3"],
         "category": "WebPortal",
         "short_desc": "Portal Marketing - Todd Laire  ",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2091"
-    }, {
-        "file": ["MarketAmerica-CADL96-Part1.mp3", "MarketAmerica-CADL96-Part2.mp3"],
-        "category": "WebPortal",
-        "short_desc": "The Ultimate Online Shopping Destination - Featuring Loren Ridinger & Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL96"
-    }, {
-        "file": ["MarketAmerica-CADL184-Part1.mp3"],
-        "category": "WebPortal",
-        "short_desc": "International Convention 2008 - Online Transformation - Upgrades to the Portal and More (Part 2) with Loren Ridinger and Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL184"
-    }, {
-        "file": ["MarketAmerica-CADL180-Part1.mp3"],
-        "category": "WebPortal",
-        "short_desc": "International Convention 2008 - Online Transformation - Upgrades to the Portal and More with Loren Ridinger and Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL180"
     }, {
         "file": ["MarketAmerica-CADL2077-Part1.mp3"],
         "category": "WebPortal",
@@ -1736,13 +1694,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2154"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2191-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Leading by Example with Fat Joe  ",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2191"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2010-Part1.mp3"],
         "category": "Developing Attitude and Knowledge",
@@ -2150,13 +2101,6 @@
         "content_lang": "CAN",
         "prd_code": "HKADL2068"
     }, {
-        "file": ["MarketHongKong-HKADL2094-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Leading by Example with Fat Joe  ",
-        "country": "HKG",
-        "content_lang": "ENG",
-        "prd_code": "HKADL2094"
-    }, {
         "file": ["MarketHongKong-HKADL2072-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "Shopping Annuity Ambassadors with Elizabeth Weber and Field Leaders  ",
@@ -2388,13 +2332,6 @@
         "content_lang": "SPA",
         "prd_code": "MXADL2071"
     }, {
-        "file": ["MarketAmerica-MXADL2064-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Market America's Global Expansion and Opportunity with JR Ridinger and Marc Ashley (3rd Quarter 2012)",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2064"
-    }, {
         "file": ["MarketAmerica-MXADL2025-Part1.mp3"],
         "category": "General",
         "short_desc": "The Next Generation of ma Entrepenuers with Andrew Weissman",
@@ -2527,14 +2464,7 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2043"
-    }, {
-        "file": ["MarketSingapore-SGADL2044-Part1.mp3"],
-        "category": "2015 International Convention",
-        "short_desc": "Leading by Example with Fat Joe",
-        "country": "SGP",
-        "content_lang": "ENG",
-        "prd_code": "SGADL2044"
-    }, {    
+    }, {  
         "file": ["MarketSingapore-SGADL2022-Part1.mp3"],
         "category": "2015 International Convention",
         "short_desc": "Shopping Annuity Ambassadors with Elizabeth Weber and Field Leaders",
