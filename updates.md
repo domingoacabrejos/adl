@@ -1349,5 +1349,100 @@ When in Doubt...Blurt it Out with Loren Ridinger and Andrew Weissman
 MarketAmerica-ADL52-Part1 ===
 - MarketAmerica-CADL52-Part1
 
+2/26 pt20
+Why Teachers Love Market America
+MarketAmerica-ADL116-Part1 ===
+- MarketAmerica-CADL116-Part1
 
+ma University - How to Recruit People in Different Majors with Dennis Franks and Andrew Weissman
+MarketAmerica-ADL50-Part1 ===
+- MarketAmerica-CADL50-Part1
 
+A New Generation of Entrepreneurs with Andrew Weissman and Jim Winkler
+MarketAmerica-ADL2202-Part1 ===
+- MarketAmerica-CADL2202-Part1
+- MarketAmerica-MXADL2023-Part1
+
+Booking Quality Appointments with Steve Harris
+MarketAmerica-ADL2268-Part1 ===
+- MarketAustralia-7ADL2084-Part1
+- MarketAmerica-CADL2268-Part1
+
+Distance Learning: Webinars & Call Workshops with Jim Winkler
+MarketAmerica-ADL2212-Part1 ===
+- MarketAmerica-CADL2212-Part1
+
+Prospecting Using Social Media with Phil & Sue Guido
+MarketAmerica-ADL2261-Part1 ===
+- MarketAustralia-7ADL2078-Part1
+- MarketAmerica-CADL2261-Part1
+
+Recruit a Winning Team with Dennis Franks, Kevin Buckman, Jim Winkler and Andrew Weissman
+MarketAmerica-ADL2217-Part1 ===
+- MarketAmerica-CADL2217-Part1
+
+Recruiting Through Retailing with Dennis Franks (3rd Quarter 2012)
+MarketAmerica-ADL2234-Part1 ===
+- MarketAustralia-7ADL2073-Part1
+- MarketAmerica-CADL2234-Part1
+- MarketAmerica-UKADL2102-Part1
+- MarketAmerica-MXADL2063-Part1
+
+Recruiting and Building with Home Business Presentations with Holly & Rick Howroyd
+MarketAmerica-ADL2165-Part1 ===
+- MarketAustralia-7ADL2058-Part1
+- MarketAmerica-CADL2165-Part1
+
+Retailing to Recruit with Dennis Franks
+MarketAmerica-ADL2267-Part1 ===
+- MarketAustralia-7ADL2083-Part1
+- MarketAmerica-CADL2267-Part1
+
+Simple Strategies for Retailing and Recruiting with Dennis Franks
+MarketAmerica-ADL2199-Part1 ===
+- MarketAmerica-CADL2199-Part1
+
+How to Implement One-to-One Marketing To Secure An Ongoing Income! w/Kevin Buckman
+MarketAmerica-ADL62-Part1 ===
+- MarketAmerica-CADL62-Part1
+
+IBV Party with Joanne Hsi
+MarketAmerica-ADL2130-Part1 ===
+- MarketAmerica-CADL2130-Part1
+
+Impact Selling with Dennis Franks
+MarketAmerica-ADL24-Part1 ===
+- MarketAmerica-CADL24-Part1
+
+New Products w/Dennis Franks
+MarketAmerica-ADL60-Part1 ===
+- MarketAmerica-CADL60-Part1
+
+One-to-One Marketing featuring Kevin Buckman
+MarketAmerica-ADL123-Part1 ===
+- MarketAmerica-CADL123-Part1
+
+Personal Care products
+MarketAmerica-ADL90-Part1
+- MarketAmerica-CADL90-Part1
+- MarketUnitedKingdom-UKADL2057-Part1
+
+Pure Water Filtration
+MarketAmerica-ADL81-Part1 ===
+- MarketAmerica-CADL81-Part1
+
+Retailing Effectively with Phil Guido & Paul Carlotta
+MarketAmerica-ADL2128-Part1 ===
+- MarketAmerica-CADL2128-Part1
+
+SNAP Cleaning Line
+MarketAmerica-ADL83-Part1 ===
+- MarketAmerica-CADL83-Part1
+
+Generating Customers and Prospects with ma Cashback with Loren Ridinger and Steve Ashley
+MarketAmerica-CADL2182-Part1 ===
+- MarketAmerica-ADL2182-Part1
+
+Market America Products. Only the Best of the Best with Marty Weissman
+MarketAmerica-ADL2188-Part1 ===
+- MarketAmerica-CADL2188-Part1
