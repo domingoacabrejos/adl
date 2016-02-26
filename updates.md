@@ -1128,9 +1128,109 @@ Market America is Everything
 MarketAmerica-ADL2016-Part1 ===
 - MarketAmerica-CADL2018-Part1
 
+2/25 pt18
+Power of Identity - Harnessing Emotions/Programming Yourself with JR Ridinger (part 1 & 2)
+MarketAmerica-ADL8-Part1 ===
+- MarketAmerica-CADL8-Part1
 
+Programming Yourself to be a Hopeless Success with JR Ridinger
+MarketAmerica-ADL20-Part1 ===
+- MarketAmerica-CADL20-Part1
+- MarketUnitedKingdom-UKADL2007-Part1
 
+Putting it all Together & 90 Day Fast Track Validation with JR Ridinger (2 parts)
+MarketAmerica-ADL159-Part1 ===
+- MarketAmerica-CADL159-Part1
 
+The Dash with JR Ridinger
+MarketAmerica-ADL18-Part1 ===
+- MarketAmerica-CADL18-Part1
 
+The Power is in You with JR Ridinger
+MarketAmerica-ADL16-Part1 ===
+- MarketAmerica-CADL16-Part1
+- MarketUnitedKingdom-UKADL2037-Part1
 
+We Beat the Economy by Creating Our Own - JR Ridinger
+MarketAmerica-ADL210-Part1 ===
+- MarketAmerica-CADL210-Part1
 
+A New Company. A New Opportunity. A New You. with JR Ridinger
+MarketAmerica-ADL2339-Part1 ===
+- MarketAmerica-CADL2339-Part1
+
+Create Your Own Economy with JR Ridinger
+MarketAmerica-ADL2297-Part1 ===
+- MarketAmerica-CADL2297-Part1
+
+Ensuring Your Success with JR Ridinger
+MarketAmerica-ADL2275-Part1 ===
+- MarketAmerica-CADL2161-Part1
+
+Growing a Global Community of Entrepreneurs with JR Ridinger
+MarketAmerica-ADL2191-Part1 ===
+- MarketAmerica-CADL2191-Part1
+- MarketAmerica-MXADL2003-Part1
+
+JR Ridinger - 2011 Blitz Tour - Lancaster, PA
+MarketAmerica-ADL2162-Part1 ===
+- MarketAmerica-CADL2162-Part1
+
+New Technologies and Fundamental Business Building Techniques with JR Ridinger
+MarketAmerica-ADL2181-Part1 ===
+- MarketAmerica-CADL2181-Part1
+- MarketAmerica-MXADL2010-Part1
+
+Pulling It All Together and the Three Major Plays with JR Ridinger
+MarketAmerica-ADL2193-Part1 ===
+- MarketAustralia-7ADL2067-Part1
+- MarketAmerica-CADL2193-Part1
+
+Shopping Annuity with JR Ridinger
+MarketAmerica-ADL2286-Part1 ===
+- MarketAmerica-CADL2286-Part1
+
+Strictly by the Playbook with JR Ridinger
+MarketAmerica-ADL2209-Part1 ===
+- MarketAmerica-CADL2209-Part1
+- MarketAmerica-MXADL2008-Part1
+
+The Foundation & The Future with JR Ridinger
+MarketAmerica-ADL2235-Part1 ===
+- MarketAustralia-7ADL2071-Part1
+- MarketAmerica-CADL2235-Part1
+- MarketAmerica-UKADL2100-Part1
+- MarketAmerica-MXADL2062-Part1
+
+The Future of Social Shopping Is Here with JR Ridinger
+MarketAmerica-ADL2216-Part1 ===
+- MarketAmerica-CADL2216-Part1
+- MarketAmerica-MXADL2000-Part1
+
+The New Playbook with JR Ridinger
+MarketAmerica-ADL2236-Part1 ===
+- MarketAmerica-CADL2236-Part1
+
+The Next 20 Years with JR Ridinger
+MarketAmerica-ADL2237-Part1 ===
+- MarketAmerica-CADL2237-Part1
+
+The Shopping Annuity. Convert Spending into Earning with JR Ridinger
+MarketAmerica-ADL2331-Part1 ===
+- MarketAmerica-CADL2331-Part1
+
+10-3-2 Business Building Strategy with Elizabeth Weber
+MarketAmerica-ADL49-Part1 ===
+- MarketAmerica-CADL49-Part1
+
+2007 Convention Breakout - Power Prospecting - (2 parts) with Kevin Buckman and Field Leaders
+MarketAmerica-ADL137-Part1 ===
+- MarketAmerica-CADL137-Part1
+
+90 Day Fast Track Concept featuring JR Ridinger
+MarketAmerica-ADL129-Part1 ===
+- MarketAmerica-CADL129-Part1
+
+90 Day Fast Track w/ JR Ridinger (3 parts)
+MarketAmerica-ADL47-Part1 ===
+- MarketAmerica-CADL47-Part1

@@ -1,4 +1,4 @@
-﻿{
+﻿ {
     "last_modified": 1441288416349,
     "downloads": [{
         "file": ["MarketAustralia-7ADL2024-Part1.mp3"],
@@ -526,13 +526,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2006"
     }, {
-        "file": ["MarketAustralia-7ADL2071-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "The Foundation & The Future with JR Ridinger (3rd Quarter 2012)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2071"
-    }, {
         "file": ["MarketAustralia-7ADL2010-Part1.mp3"],
         "category": "Goals",
         "short_desc": "UnFranchise Daily Goals and Tasks with Andrew Weissman",
@@ -567,13 +560,6 @@
         "country": "AUS",
         "content_lang": "ENG",
         "prd_code": "7ADL2020"
-    }, {
-        "file": ["MarketAustralia-7ADL2067-Part1.mp3", "MarketAustralia-7ADL2067-Part2.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Pulling it All Together and the Three Major Plays with JR Ridinger  (2011 4th Quarter)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2067"
     }, {
         "file": ["MarketAustralia-7ADL2084-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
@@ -805,13 +791,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL197"
-    }, {
-        "file": ["MarketAmerica-CADL210-Part1.mp3", "MarketAmerica-CADL210-Part2.mp3"],
-        "category": "2009 World Conference",
-        "short_desc": "We Beat the Economy by Creating Our Own - JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL210"
     }, {
         "file": ["MarketAmerica-CADL203-Part1.mp3"],
         "category": "2009 World Conference",
@@ -1051,13 +1030,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2170"
     }, {
-        "file": ["MarketAmerica-CADL2191-Part1.mp3", "MarketAmerica-CADL2191-Part2.mp3", "MarketAmerica-CADL2191-Part3.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Growing a Global Community of Entrepreneurs with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2191"
-    }, {
         "file": ["MarketAmerica-CADL2183-Part1.mp3"],
         "category": "2011 International Convention",
         "short_desc": "International UnFranchise Business Expansion with Joe Bolyard and Dennis Franks",
@@ -1071,13 +1043,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2188"
-    }, {
-        "file": ["MarketAmerica-CADL2181-Part1.mp3", "MarketAmerica-CADL2181-Part2.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "New Technologies and Fundamental Business Building Techniques with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2181"
     }, {
         "file": ["MarketAmerica-CADL2168-Part1.mp3"],
         "category": "2011 International Convention",
@@ -1289,27 +1254,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2238"
     }, {
-        "file": ["MarketAmerica-CADL2235-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "The Foundation & The Future with JR Ridinger (3rd Quarter 2012)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2235"
-    }, {
-        "file": ["MarketAmerica-CADL2236-Part1.mp3"],
-        "category": "2012 International Convention",
-        "short_desc": "The New Playbook with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2236"
-    }, {
-        "file": ["MarketAmerica-CADL2237-Part1.mp3"],
-        "category": "2012 International Convention",
-        "short_desc": "The Next 20 Years with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2237"
-    }, {
         "file": ["MarketAmerica-CADL2131-Part1.mp3"],
         "category": "2012 International Convention",
         "short_desc": "ma Capital Resources and PatLive with Jeremy Fennema ",
@@ -1373,20 +1317,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2201"
     }, {
-        "file": ["MarketAmerica-CADL2216-Part1.mp3", "MarketAmerica-CADL2216-Part2.mp3", "MarketAmerica-CADL2216-Part3.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "The Future of Social Shopping Is Here with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2216"
-    }, {
-        "file": ["MarketAmerica-CADL2339-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "A New Company. A New Opportunity. A New You. with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2339"
-    }, {
         "file": ["MarketAmerica-CADL2338-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "DNA Miracles with Amber and Duane Ridinger with Marty Weissman, Dr. Deedra Mason and Dr. Mike and Lee McKenzie",
@@ -1422,27 +1352,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2334"
     }, {
-        "file": ["MarketAmerica-CADL2331-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "The Shopping Annuity. Convert Spending into Earning with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2331"
-    }, {
-        "file": ["MarketAmerica-CADL2297-Part1.mp3", "MarketAmerica-CADL2297-Part2.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Create Your Own Economy with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2297"
-    }, {
-        "file": ["MarketAmerica-CADL2161-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Ensuring Your Success with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2161"
-    }, {
         "file": ["MarketAmerica-CADL2283-Part1.mp3"],
         "category": "2013 World Conference",
         "short_desc": "Isotonix Champion Blend Plus with Loren Ridinger & La La Anthony",
@@ -1463,13 +1372,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2281"
-    }, {
-        "file": ["MarketAmerica-CADL2286-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Shopping Annuity with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2286"
     }, {
         "file": ["MarketAmerica-CADL2276-Part1.mp3"],
         "category": "2013 World Conference",
@@ -1674,20 +1576,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL119"
     }, {
-        "file": ["MarketAmerica-CADL8-Part1.mp3", "MarketAmerica-CADL8-Part2.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Power of Identity - Harnessing Emotions/Programming Yourself with JR Ridinger (part 1 & 2)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL8"
-    }, {
-        "file": ["MarketAmerica-CADL20-Part1.mp3", "MarketAmerica-CADL20-Part2.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Programming Yourself to be a Hopeless Success with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL20"
-    }, {
         "file": ["MarketAmerica-CADL15-Part1.mp3", "MarketAmerica-CADL15-Part2.mp3"],
         "category": "Developing Attitude and Knowledge",
         "short_desc": "The Market America Vision: The Engine and Schematic Diagram with JR Ridinger",
@@ -1835,13 +1723,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2199"
     }, {
-        "file": ["MarketAmerica-CADL2209-Part1.mp3", "MarketAmerica-CADL2209-Part2.mp3"],
-        "category": "Motives Audio Curriculum",
-        "short_desc": "Strictly by the Playbook with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2209"
-    }, {
         "file": ["MarketAmerica-CADL2248-Part1.mp3"],
         "category": "Motives Audio Curriculum",
         "short_desc": "Why Custom Blend? with Director of Sales for Motives, Lisa Kostka",
@@ -1869,55 +1750,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2092"
-    }, {
-        "file": ["MarketAmerica-CADL2162-Part1.mp3", "MarketAmerica-CADL2162-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "JR Ridinger - 2011 Blitz Tour - Lancaster, PA",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2162"
-    }, {
-        "file": ["MarketAmerica-CADL2193-Part1.mp3", "MarketAmerica-CADL2193-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Pulling It All Together and the Three Major Plays with JR Ridinger ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2193"
-    }, {
-        "file": ["MarketAmerica-CADL159-Part1.mp3", "MarketAmerica-CADL159-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Putting it all Together & 90 Day Fast Track Validation with JR Ridinger (2 parts)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL159"
-    }, {
-        "file": ["MarketAmerica-CADL18-Part1.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "The Dash with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL18"
-    }, {
-        "file": ["MarketAmerica-CADL16-Part1.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "The Power is in You with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL16"
-    }, {
-        "file": ["MarketAmerica-CADL49-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "10-3-2 Business Building Strategy with Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL49"
-    }, {
-        "file": ["MarketAmerica-CADL129-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "90 Day Fast Track Concept featuring JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL129"
     }, {
         "file": ["MarketAmerica-CADL26-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
@@ -1974,20 +1806,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL116"
-    }, {
-        "file": ["MarketAmerica-CADL137-Part1.mp3", "MarketAmerica-CADL137-Part2.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "2007 Convention Breakout - Power Prospecting - (2 parts) with Kevin Buckman and Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL137"
-    }, {
-        "file": ["MarketAmerica-CADL47-Part1.mp3", "MarketAmerica-CADL47-Part2.mp3", "MarketAmerica-CADL47-Part3.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "90 Day Fast Track w/ JR Ridinger (3 parts)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL47"
     }, {
         "file": ["MarketAmerica-CADL2268-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
@@ -2752,13 +2570,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2081"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2007-Part1.mp3", "MarketUnitedKingdom-UKADL2007-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Programming Yourself to be a Hopeless Success with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2007"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2080-Part1.mp3", "MarketUnitedKingdom-UKADL2080-Part2.mp3"],
         "category": "President and CEO",
         "short_desc": "Putting It All Together & 90 Day Fast Track: President & CEO, JR Ridinger ",
@@ -2786,20 +2597,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2036"
-    }, {
-        "file": ["MarketAmerica-UKADL2100-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "The Foundation & The Future with JR Ridinger (3rd Quarter 2012)",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2100"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2037-Part1.mp3"],
-        "category": "President and CEO",
-        "short_desc": "The Power is in You with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2037"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2051-Part1.mp3"],
         "category": "President and CEO",
@@ -3249,20 +3046,6 @@
         "content_lang": "ENG",
         "prd_code": "MXADL2009"
     }, {
-        "file": ["MarketAmerica-MXADL2003-Part1.mp3", "MarketAmerica-MXADL2003-Part2.mp3", "MarketAmerica-MXADL2003-Part3.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Growing a Global Community of Entrepreneurs with JR Ridinger",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2003"
-    }, {
-        "file": ["MarketAmerica-MXADL2010-Part1.mp3", "MarketAmerica-MXADL2010-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "New Technologies and Fundamental Business Building Techniques with JR Ridinger ",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2010"
-    }, {
         "file": ["MarketAmerica-MXADL2014-Part1.mp3", "MarketAmerica-MXADL2014-Part2.mp3"],
         "category": "President and CEO JR Ridinger",
         "short_desc": "Power Of Identity - Harnessing Emotions and Programming the Brain With JR Ridinger",
@@ -3276,27 +3059,6 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2011"
-    }, {
-        "file": ["MarketAmerica-MXADL2008-Part1.mp3", "MarketAmerica-MXADL2008-Part2.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "Strictly by the Playbook with JR Ridinger",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2008"
-    }, {
-        "file": ["MarketAmerica-MXADL2062-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "The Foundation & The Future with JR Ridinger (3rd Quarter 2012)",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2062"
-    }, {
-        "file": ["MarketAmerica-MXADL2000-Part1.mp3", "MarketAmerica-MXADL2000-Part2.mp3", "MarketAmerica-MXADL2000-Part3.mp3"],
-        "category": "President and CEO JR Ridinger",
-        "short_desc": "The Future of Social Shopping Is Here with JR Ridinger",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2000"
     }, {
         "file": ["MarketAmerica-MXADL2047-Part1.mp3"],
         "category": "ProspectingRecruitingSponsoring",
