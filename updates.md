@@ -1443,6 +1443,88 @@ Generating Customers and Prospects with ma Cashback with Loren Ridinger and Stev
 MarketAmerica-CADL2182-Part1 ===
 - MarketAmerica-ADL2182-Part1
 
+2/26 pt21
 Market America Products. Only the Best of the Best with Marty Weissman
 MarketAmerica-ADL2188-Part1 ===
 - MarketAmerica-CADL2188-Part1
+
+Market America + Shop.com -Loren Ridinger, JR Ridinger, Marc Ashley
+MarketAmerica-ADL2160-Part1 ===
+- MarketAmerica-CADL2160-Part1
+
+Connect Your Business with Your Web Portal with Marc Ashley
+MarketAmerica-ADL2180-Part1 ===
+- MarketAmerica-CADL2180-Part1
+- MarketAmerica-MXADL2041-Part1
+
+Cutting-Edge Advancements: Market America/SHOP.COM Part 1 with Marc Ashley
+MarketAmerica-ADL2208-Part1 ===
+- MarketAmerica-CADL2208-Part1
+
+Cutting-Edge Advancements: Market America/SHOP.COM Part 2 with Marc Ashley
+MarketAmerica-ADL2215-Part1 ===
+- MarketAmerica-CADL2215-Part1
+
+New Technologies - Changing the Way People Shop with Marc Ashley
+MarketAmerica-ADL2264-Part1 ===
+MarketAmerica-ADL2231-Part1 ===
+MarketAmerica-ADL2244-Part1 ===
+- MarketAustralia-7ADL2080-Part1
+- MarketAmerica-CADL2231-Part1
+- MarketAmerica-CADL2244-Part1
+- MarketAmerica-CADL2264-Part1
+
+Phase 2 SHOP.COM Integration with Marc Ashley
+MarketAmerica-ADL2195-Part1 ===
+- MarketAustralia-7ADL2069-Part1
+- MarketAmerica-CADL2195-Part1
+
+Revolutionizing Shopping with Market America and SHOP.COM with Marc Ashley
+MarketAmerica-ADL2190-Part1 ===
+- MarketAustralia-7ADL2064-Part1
+
+SHOP.COM with Carl Eklund
+MarketAmerica-ADL2259-Part1 ===
+- MarketAmerica-CADL2259-Part1
+
+The Home Advisor and Other SHOP.COM Advancements with Marc Ashley
+MarketAmerica-ADL2334-Part1 ===
+- MarketAmerica-CADL2334-Part1
+
+Lumiere de Vie with Amber Ridinger & Loren Ridinger
+MarketAmerica-ADL2277-Part1 ===
+- MarketAmerica-CADL2277-Part1
+
+Brand You! Social Media Branding and Marketing with Loren Ridinger and Steve Ashley
+MarketAmerica-ADL2222-Part1 ===
+- MarketAmerica-CADL2222-Part1
+
+Networking with Social Media, Home Shopping Parties with Loren Ridinger & Steve Ashley
+MarketAmerica-ADL2214-Part1 ===
+- MarketAmerica-CADL2214-Part1
+
+Social Media Tips, Strategies and Techniques with Loren Ridinger and Steve Ashley
+MarketAmerica-ADL2337-Part1 ===
+- MarketAmerica-CADL2337-Part1
+
+Earn Thousands in Retail Profit Businesses Need Websites: ma WebCenter with Jeremy Fennema
+MarketAmerica-ADL2106-Part1 ===
+- MarketAmerica-CADL2106-Part1
+
+Generate Cashflow with ma WebCenters with Jeremy Fennema
+MarketAmerica-ADL2178-Part1 ===
+- MarketAmerica-CADL2178-Part1
+
+Grow Your Team Easier and Faster with New Recruiting Websites with Jeremy Fennema
+MarketAmerica-ADL2170-Part1 ===
+- MarketAmerica-CADL2170-Part1
+
+Master the Web with ma WebCenters, iTransact & Distributor Recruiting Sites with Jeremy Fennema
+MarketAmerica-ADL2204-Part1 ===
+- MarketAmerica-CADL2204-Part1
+
+ma WebCenters with Jeremey Fennema
+MarketAmerica-ADL2227-Part1 ===
+- MarketAmerica-CADL2227-Part1
+
+

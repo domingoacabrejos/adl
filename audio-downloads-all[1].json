@@ -36,13 +36,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2054"
     }, {
-        "file": ["MarketAustralia-7ADL2064-Part1.mp3", "MarketAustralia-7ADL2064-Part2.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Revolutionizing Shopping with Market America and SHOP.COM with Marc Ashley (2011 3rd Quarter)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2064"
-    }, {
         "file": ["MarketAustralia-7ADL2106-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "A New Company - Keeping the UnFranchise Business Simple with Andrew Weissman & Jim Winkler",
@@ -568,20 +561,6 @@
         "content_lang": "ENG",
         "prd_code": "7ADL2059"
     }, {
-        "file": ["MarketAustralia-7ADL2080-Part1.mp3", "MarketAustralia-7ADL2080-Part2.mp3"],
-        "category": "Shop.com",
-        "short_desc": "New Technologies - Changing the Way People Shop with Marc Ashley",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2080"
-    }, {
-        "file": ["MarketAustralia-7ADL2069-Part1.mp3"],
-        "category": "Audio of the Month",
-        "short_desc": "Phase 2 Shop.com integration with Marc Ashley (2011 4th Quarter)",
-        "country": "AUS",
-        "content_lang": "ENG",
-        "prd_code": "7ADL2069"
-    }, {
         "file": ["MarketAustralia-7ADL2048-Part1.mp3"],
         "category": "Transitions Lifestyle System",
         "short_desc": "TLS Shape Up System with Lydia Martinez (2010 Product Symposium)",
@@ -764,13 +743,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2109"
     }, {
-        "file": ["MarketAmerica-CADL2106-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Earn Thousands in Retail Profit Businesses Need Websites: ma WebCenter with Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2106"
-    }, {
         "file": ["MarketAmerica-CADL2107-Part1.mp3"],
         "category": "2010 International Convention",
         "short_desc": "Expand your Business Internationally with Joe Bolyard",
@@ -925,33 +897,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2171"
     }, {
-        "file": ["MarketAmerica-CADL2180-Part1.mp3", "MarketAmerica-CADL2180-Part2.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Connect Your Business with Your Web Portal with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2180"
-    }, {
         "file": ["MarketAmerica-CADL2176-Part1.mp3"],
         "category": "2011 International Convention",
         "short_desc": "Custom Health Solutions for All Ages with Tanya Smith  ",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2176"
-    }, {
-        "file": ["MarketAmerica-CADL2178-Part1.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Generate Cashflow with ma WebCenters with Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2178"
-    }, {
-        "file": ["MarketAmerica-CADL2170-Part1.mp3"],
-        "category": "2011 International Convention",
-        "short_desc": "Grow Your Team Easier and Faster with New Recruiting Websites with Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2170"
     }, {
         "file": ["MarketAmerica-CADL2183-Part1.mp3"],
         "category": "2011 International Convention",
@@ -1023,13 +974,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2149"
     }, {
-        "file": ["MarketAmerica-CADL2160-Part1.mp3"],
-        "category": "2011 World Conference",
-        "short_desc": "Market America + Shop.com -Loren Ridinger, JR Ridinger, Marc Ashley and Ken Goldstein  ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2160"
-    }, {
         "file": ["MarketAmerica-CADL2136-Part1.mp3"],
         "category": "2011 World Conference",
         "short_desc": "Networking With Social Media On the Go and ma Mobile with Steve Ashley and Eugene Wallace",
@@ -1100,13 +1044,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2143"
     }, {
-        "file": ["MarketAmerica-CADL2222-Part1.mp3"],
-        "category": "2012 International Convention",
-        "short_desc": "Brand You! Social Media Branding and Marketing with Loren Ridinger and Steve Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2222"
-    }, {
         "file": ["MarketAmerica-CADL2243-Part1.mp3"],
         "category": "2012 International Convention",
         "short_desc": "Business Simplification Strategies and Principles with Andrew Weissman and Jim Winkler",
@@ -1142,20 +1079,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2230"
     }, {
-        "file": ["MarketAmerica-CADL2231-Part1.mp3"],
-        "category": "2012 International Convention",
-        "short_desc": "New Technologies - Changing the Way People Shop with Marc Ashley Part 1",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2231"
-    }, {
-        "file": ["MarketAmerica-CADL2244-Part1.mp3"],
-        "category": "2012 International Convention",
-        "short_desc": "New Technologies - Changing the Way People Shop with Marc Ashley Part 2",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2244"
-    }, {
         "file": ["MarketAmerica-CADL2238-Part1.mp3"],
         "category": "2012 International Convention",
         "short_desc": "TLS Weight Loss Solution Find Your Fit Challenge and Innovations with Lydia Martinez",
@@ -1170,47 +1093,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2131"
     }, {
-        "file": ["MarketAmerica-CADL2227-Part1.mp3"],
-        "category": "2012 International Convention",
-        "short_desc": "ma WebCenters with Jeremey Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2227"
-    }, {
-        "file": ["MarketAmerica-CADL2208-Part1.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "Cutting-Edge Advancements: Market America/SHOP.COM Part 1 with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2208"
-    }, {
-        "file": ["MarketAmerica-CADL2215-Part1.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "Cutting-Edge Advancements: Market America/SHOP.COM Part 2 with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2215"
-    }, {
         "file": ["MarketAmerica-CADL2210-Part1.mp3"],
         "category": "2012 ma World Conference",
         "short_desc": "Market America Across the Globe with Joe Bolyard and Dennis Franks",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2210"
-    }, {
-        "file": ["MarketAmerica-CADL2204-Part1.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "Master the Web with ma WebCenters, iTransact & Distributor Recruiting Sites with Jeremy Fennema",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2204"
-    }, {
-        "file": ["MarketAmerica-CADL2214-Part1.mp3", "MarketAmerica-CADL2214-Part2.mp3"],
-        "category": "2012 ma World Conference",
-        "short_desc": "Networking with Social Media, Home Shopping Parties with Loren Ridinger & Steve Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2214"
     }, {
         "file": ["MarketAmerica-CADL2201-Part1.mp3"],
         "category": "2012 ma World Conference",
@@ -1233,13 +1121,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2323"
     }, {
-        "file": ["MarketAmerica-CADL2337-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "Social Media Tips, Strategies and Techniques with Loren Ridinger and Steve Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2337"
-    }, {
         "file": ["MarketAmerica-CADL2320-Part1.mp3"],
         "category": "2013 International Convention",
         "short_desc": "TLS with Lydia Martinez",
@@ -1247,26 +1128,12 @@
         "content_lang": "ENG",
         "prd_code": "CADL2320"
     }, {
-        "file": ["MarketAmerica-CADL2334-Part1.mp3"],
-        "category": "2013 International Convention",
-        "short_desc": "The Home Advisor and Other SHOP.COM Advancements with Marc Ashley",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2334"
-    }, {
         "file": ["MarketAmerica-CADL2283-Part1.mp3"],
         "category": "2013 World Conference",
         "short_desc": "Isotonix Champion Blend Plus with Loren Ridinger & La La Anthony",
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2283"
-    }, {
-        "file": ["MarketAmerica-CADL2277-Part1.mp3"],
-        "category": "2013 World Conference",
-        "short_desc": "Lumiere de Vie with Amber Ridinger & Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2277"
     }, {
         "file": ["MarketAmerica-CADL2281-Part1.mp3"],
         "category": "2013 World Conference",
@@ -1701,27 +1568,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL56"
-    }, {
-        "file": ["MarketAmerica-CADL2264-Part1.mp3", "MarketAmerica-CADL2264-Part2.mp3"],
-        "category": "Shop.com",
-        "short_desc": "New Technologies - Changing the Way People Shop with Marc Ashley  ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2264"
-    }, {
-        "file": ["MarketAmerica-CADL2195-Part1.mp3"],
-        "category": "Shop.com",
-        "short_desc": "Phase 2 Shop.com Integration with Marc Ashley ",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2195"
-    }, {
-        "file": ["MarketAmerica-CADL2259-Part1.mp3"],
-        "category": "Shop.com",
-        "short_desc": "Shop.com with Carl Eklund",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2259"
     }, {
         "file": ["MarketAmerica-CADL2076-Part1.mp3"],
         "category": "TLS Weight Loss Solution",
@@ -2681,13 +2527,6 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2043"
-    }, {
-        "file": ["MarketAmerica-MXADL2041-Part1.mp3", "MarketAmerica-MXADL2041-Part2.mp3"],
-        "category": "Web Portal",
-        "short_desc": "Connect Your Business with Your Web Portal with Marc Ashley ",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2041"
     }, {
         "file": ["MarketSingapore-SGADL2044-Part1.mp3"],
         "category": "2015 International Convention",
