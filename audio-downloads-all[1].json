@@ -659,13 +659,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2017"
     }, {
-        "file": ["MarketAmerica-CADL2005-Part1.mp3"],
-        "category": "2009 International Convention",
-        "short_desc": "Result Producing Activities",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2005"
-    }, {
         "file": ["MarketAmerica-CADL2013-Part1.mp3"],
         "category": "2009 International Convention",
         "short_desc": "The Power Behind the Products",
@@ -749,20 +742,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL195"
-    }, {
-        "file": ["MarketAmerica-CADL206-Part1.mp3"],
-        "category": "2009 World Conference",
-        "short_desc": "Portal Marketing Major: Shop and Share with Others - Loren Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL206"
-    }, {
-        "file": ["MarketAmerica-CADL194-Part1.mp3"],
-        "category": "2009 World Conference",
-        "short_desc": "Prospecting, Recruiting & Sponsoring - Jim Winkler, Kelly Whited, Shu Yang & Andy Webb",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL194"
     }, {
         "file": ["MarketAmerica-CADL208-Part1.mp3"],
         "category": "2009 World Conference",
@@ -848,13 +827,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2099"
     }, {
-        "file": ["MarketAmerica-CADL2116-Part1.mp3", "MarketAmerica-CADL2116-Part2.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "The UnFranchise Business Plan with JR Ridinger, Dennis Franks & Kevin Buckman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2116"
-    }, {
         "file": ["MarketAmerica-CADL2112-Part1.mp3", "MarketAmerica-CADL2112-Part2.mp3"],
         "category": "2010 International Convention",
         "short_desc": "The World's Largest Shopping Engine - marketamerica.com with Loren Ridinger & Marc Ashley",
@@ -868,13 +840,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2104"
-    }, {
-        "file": ["MarketAmerica-CADL2108-Part1.mp3"],
-        "category": "2010 International Convention",
-        "short_desc": "Utilizing ma's Powerful Prospecting Tools with Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL2108"
     }, {
         "file": ["MarketAmerica-CADL2102-Part1.mp3"],
         "category": "2010 International Convention",
@@ -1751,27 +1716,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL2092"
     }, {
-        "file": ["MarketAmerica-CADL26-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Becoming a Master Recruiter with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL26"
-    }, {
-        "file": ["MarketAmerica-CADL46-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Home Kickoffs with Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL46"
-    }, {
-        "file": ["MarketAmerica-CADL179-Part1.mp3", "MarketAmerica-CADL179-Part2.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Presenting the Plan with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL179"
-    }, {
         "file": ["MarketAmerica-CADL66-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
         "short_desc": "Recruiting 102: Approaches (Breakout) w/Todd Sachs",
@@ -1786,20 +1730,6 @@
         "content_lang": "ENG",
         "prd_code": "CADL67"
     }, {
-        "file": ["MarketAmerica-CADL27-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Recruiting Methods from the Field",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL27"
-    }, {
-        "file": ["MarketAmerica-CADL107-Part1.mp33"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "When in Doubt...Blurt it Out - Featuring: Loren Ridinger and Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL107"
-    }, {
         "file": ["MarketAmerica-CADL116-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
         "short_desc": "Why Teachers Love Market America",
@@ -1813,83 +1743,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2268"
-    }, {
-        "file": ["MarketAmerica-CADL41-Part1.mp3", "MarketAmerica-CADL41-Part2.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Building at a Distance/Cross Pollination Combination with the NMTSS featuring JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL41"
-    }, {
-        "file": ["MarketAmerica-CADL130-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Getting Started on the Fast Track with Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL130"
-    }, {
-        "file": ["MarketAmerica-CADL42-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Hitting New Levels with Cross Pollination featuring JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL42"
-    }, {
-        "file": ["MarketAmerica-CADL104-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "How to Implement 10-3-2 and the Fast Track - featuring: Elizabeth Weber",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL104"
-    }, {
-        "file": ["MarketAmerica-CADL177-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "International Convention 2008 - People Lead to More People with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL177"
-    }, {
-        "file": ["MarketAmerica-CADL178-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "International Convention 2008 - Proven Prospecting Principles with Field Leaders with Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL178"
-    }, {
-        "file": ["MarketAmerica-CADL134-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Just Push Play featuring Kevin Buckman with Field Leaders",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL134"
-    }, {
-        "file": ["MarketAmerica-CADL161-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Leadership School 2008 - Prospecting and Recruiting with Field Leaders and Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL161"
-    }, {
-        "file": ["MarketAmerica-CADL121-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Market America University with Andrew Weissman, Tony and Pam Bowling",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL121"
-    }, {
-        "file": ["MarketAmerica-CADL28-Part1.mp3", "MarketAmerica-CADL28-Part2.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Master Building Techniques with JR Ridinger (part 1 & 2)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL28"
-    }, {
-        "file": ["MarketAmerica-CADL33-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Power Prospecting and Using the Right Approach with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL33"
     }, {
         "file": ["MarketAmerica-CADL111-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
@@ -1911,13 +1764,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2261"
-    }, {
-        "file": ["MarketAmerica-CADL32-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Prospecting, Recruiting & Sponsoring with Dennis Franks",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL32"
     }, {
         "file": ["MarketAmerica-CADL2127-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
@@ -1946,34 +1792,6 @@
         "country": "CAN",
         "content_lang": "ENG",
         "prd_code": "CADL2267"
-    }, {
-        "file": ["MarketAmerica-CADL31-Part1.mp3", "MarketAmerica-CADL31-Part2.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "Sponsoring & Trial Run with JR Ridinger (par 1 & 2)",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL31"
-    }, {
-        "file": ["MarketAmerica-CADL98-Part1.mp3", "MarketAmerica-CADL98-Part2.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "The 90 Day Fast Track - featuring JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL98"
-    }, {
-        "file": ["MarketAmerica-CADL29-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "The Science of Automatic Prospecting, Recruiting, & Sponsoring with JR Ridinger",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL29"
-    }, {
-        "file": ["MarketAmerica-CADL52-Part1.mp3"],
-        "category": "Prospecting/Recruiting/Sponsoring",
-        "short_desc": "When in Doubt...Blurt it Out with Loren Ridinger and Andrew Weissman",
-        "country": "CAN",
-        "content_lang": "ENG",
-        "prd_code": "CADL52"
     }, {
         "file": ["MarketAmerica-CADL50-Part1.mp3"],
         "category": "Prospecting/Recruiting/Sponsoring",
@@ -2332,26 +2150,12 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2048"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2040-Part1.mp3"],
-        "category": "General",
-        "short_desc": "Home Kickoffs with Elizabeth Weber",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2040"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2015-Part1.mp3"],
         "category": "General",
         "short_desc": "How MA has changed their Lives",
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2015"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2041-Part1.mp3"],
-        "category": "General",
-        "short_desc": "How to Implement 10-3-2 and the Fast Track - featuring: Elizabeth Weber",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2041"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2055-Part1.mp3"],
         "category": "General",
@@ -2415,13 +2219,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2071"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2046-Part1.mp3"],
-        "category": "General",
-        "short_desc": "Previous Traditional Business Owners - Why the Unfranchise&reg; Business is Smarter and Safer",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2046"
     }, {
         "file": ["MarketUnitedKingdom-UKADL2058-Part1.mp3"],
         "category": "General",
@@ -2563,13 +2360,6 @@
         "content_lang": "ENG",
         "prd_code": "UKADL2011"
     }, {
-        "file": ["MarketUnitedKingdom-UKADL2081-Part1.mp3", "MarketUnitedKingdom-UKADL2081-Part2.mp3"],
-        "category": "President and CEO",
-        "short_desc": "Presenting the Plan with JR Ridinger",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2081"
-    }, {
         "file": ["MarketUnitedKingdom-UKADL2080-Part1.mp3", "MarketUnitedKingdom-UKADL2080-Part2.mp3"],
         "category": "President and CEO",
         "short_desc": "Putting It All Together & 90 Day Fast Track: President & CEO, JR Ridinger ",
@@ -2632,13 +2422,6 @@
         "country": "GBR",
         "content_lang": "ENG",
         "prd_code": "UKADL2047"
-    }, {
-        "file": ["MarketUnitedKingdom-UKADL2049-Part1.mp3", "MarketUnitedKingdom-UKADL2049-Part2.mp3"],
-        "category": "Prospecting Recruiting and Sponsoring",
-        "short_desc": "Recruiting Methods from the Field",
-        "country": "GBR",
-        "content_lang": "ENG",
-        "prd_code": "UKADL2049"
     }, {
         "file": ["MarketAmerica-UKADL2102-Part1.mp3"],
         "category": "Audio of the Month",
@@ -2933,13 +2716,6 @@
         "country": "MEX",
         "content_lang": "ENG",
         "prd_code": "MXADL2027"
-    }, {
-        "file": ["MarketAmerica-MXADL2022-Part1.mp3"],
-        "category": "Developing Attitude and Knowledge",
-        "short_desc": "Result Producing Activities - Andrew Weissman",
-        "country": "MEX",
-        "content_lang": "ENG",
-        "prd_code": "MXADL2022"
     }, {
         "file": ["MarketAmerica-MXADL2078-Part1.mp3"],
         "category": "General",
@@ -3906,13 +3682,6 @@
         "country": "USA",
         "content_lang": "ENG",
         "prd_code": "ADL2404"
-    }, {
-        "file": ["MarketAmerica-ADL2395-Part1.mp3"],
-        "category": "2014 International Convention",
-        "short_desc": "Result Producing Activities: Proven Retailing Principles with Kevin Buckman & Field Leaders",
-        "country": "USA",
-        "content_lang": "ENG",
-        "prd_code": "ADL2395"
     }, {
         "file": ["MarketAmerica-ADL2410-Part1.mp3"],
         "category": "2014 International Convention",

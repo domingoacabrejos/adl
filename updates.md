@@ -1128,7 +1128,7 @@ Market America is Everything
 MarketAmerica-ADL2016-Part1 ===
 - MarketAmerica-CADL2018-Part1
 
-2/25 pt18
+2/26 pt18
 Power of Identity - Harnessing Emotions/Programming Yourself with JR Ridinger (part 1 & 2)
 MarketAmerica-ADL8-Part1 ===
 - MarketAmerica-CADL8-Part1
@@ -1234,3 +1234,120 @@ MarketAmerica-ADL129-Part1 ===
 90 Day Fast Track w/ JR Ridinger (3 parts)
 MarketAmerica-ADL47-Part1 ===
 - MarketAmerica-CADL47-Part1
+
+2/26 pt19
+Becoming a Master Recruiter with JR Ridinger
+MarketAmerica-ADL26-Part1 ===
+- MarketAmerica-CADL26-Part1
+
+Building at a Distance/Cross Pollination Combination with the NMTSS featuring JR Ridinger
+MarketAmerica-ADL41-Part1 ===
+- MarketAmerica-CADL41-Part1
+
+Getting Started on the Fast Track with Elizabeth Weber
+MarketAmerica-ADL130-Part1 ===
+- MarketAmerica-CADL130-Part1
+
+Hitting New Levels with Cross Pollination featuring JR Ridinger
+MarketAmerica-ADL42-Part1 ===
+- MarketAmerica-CADL42-Part1
+
+Home Kickoffs with Elizabeth Weber
+MarketAmerica-ADL46-Part1 ===
+- MarketUnitedKingdom-UKADL2040-Part1
+- MarketAmerica-CADL46-Part1
+
+How to Implement 10-3-2 and the Fast Track - featuring: Elizabeth Weber
+MarketAmerica-ADL104-Part1 ===
+- MarketAmerica-CADL104-Part1
+- MarketUnitedKingdom-UKADL2041-Part1
+
+International Convention 2008 - People Lead to More People with Dennis Franks
+MarketAmerica-ADL177-Part1 ===
+- MarketAmerica-CADL177-Part1
+
+International Convention 2008 - Proven Prospecting Principles with Field Leaders with Andrew Weissman
+MarketAmerica-ADL178-Part1 ===
+- MarketAmerica-CADL178-Part1
+
+Just Push Play featuring Kevin Buckman with Field Leaders
+MarketAmerica-ADL134-Part1 ===
+- MarketAmerica-CADL134-Part1
+
+Leadership School 2008 - Prospecting and Recruiting with Field Leaders and Andrew Weissman
+MarketAmerica-ADL161-Part1 ===
+- MarketAmerica-CADL161-Part1
+
+Market America University with Andrew Weissman, Tony and Pam Bowling
+MarketAmerica-ADL121-Part1 ===
+- MarketAmerica-CADL121-Part1
+
+Master Building Techniques with JR Ridinger (part 1 & 2)
+MarketAmerica-ADL28-Part1 ===
+- MarketAmerica-CADL28-Part1
+
+Power Prospecting and Using the Right Approach with Dennis Franks
+MarketAmerica-ADL33-Part1 ===
+- MarketAmerica-CADL33-Part1
+
+Presenting the Plan with JR Ridinger
+MarketAmerica-ADL179-Part1 ===
+- MarketAmerica-CADL179-Part1
+- MarketUnitedKingdom-UKADL2081-Part1
+
+Previous Traditional Business Owners - Why the Unfranchise&reg; Business is Smarter and Safer
+MarketAmerica-ADL111-Part1 ===
+- MarketUnitedKingdom-UKADL2046-Part1
+
+Prospecting, Recruiting & Sponsoring - Jim Winkler, Kelly Whited, Shu Yang & Andy Webb
+MarketAmerica-ADL194-Part1 ===
+- MarketAmerica-CADL194-Part1
+
+Prospecting, Recruiting & Sponsoring with Dennis Franks
+MarketAmerica-ADL32-Part1 ===
+- MarketAmerica-CADL32-Part1
+
+Recruiting Methods from the Field
+MarketAmerica-ADL27-Part1 ===
+- MarketAmerica-CADL27-Part1
+- MarketUnitedKingdom-UKADL2049-Part1
+
+Result Producing Activities
+MarketAmerica-ADL2003-Part1 ===
+- MarketAmerica-CADL2005-Part1
+- MarketAmerica-MXADL2022-Part1
+
+Result Producing Activities: Proven Prospecting & Recruiting Principles with Jim Winkler & Field Leaders
+MarketAmerica-ADL2404-Part1 ===
+- MarketAmerica-ADL2395-Part1
+
+Sponsoring & Trial Run with JR Ridinger (par 1 & 2)
+MarketAmerica-ADL31-Part1 ===
+- MarketAmerica-CADL31-Part1
+
+The 90 Day Fast Track - featuring JR Ridinger
+MarketAmerica-ADL98-Part1 ===
+- MarketAmerica-CADL98-Part1
+
+The Science of Automatic Prospecting, Recruiting, & Sponsoring with JR Ridinger
+MarketAmerica-ADL29-Part1 ===
+- MarketAmerica-CADL29-Part1
+
+The UnFranchise Business Plan with JR Ridinger, Dennis Franks & Kevin Buckman
+MarketAmerica-ADL2116-Part1 ===
+- MarketAmerica-CADL2116-Part1
+
+Utilizing ma's Powerful Prospecting Tools with Andrew Weissman
+MarketAmerica-ADL2108-Part1 ===
+- MarketAmerica-CADL2108-Part1
+
+When in Doubt...Blurt it Out - Featuring: Loren Ridinger and Andrew Weissman
+MarketAmerica-ADL107-Part1 ===
+- MarketAmerica-CADL107-Part1
+
+When in Doubt...Blurt it Out with Loren Ridinger and Andrew Weissman
+MarketAmerica-ADL52-Part1 ===
+- MarketAmerica-CADL52-Part1
+
+
+
